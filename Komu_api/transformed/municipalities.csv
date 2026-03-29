@@ -1,0 +1,1643 @@
+code,province_code,region_name,name,type
+1380100000,,"National Capital Region (NCR)","City of Caloocan",city
+1380200000,,"National Capital Region (NCR)","City of Las Piñas",city
+1380300000,,"National Capital Region (NCR)","City of Makati",city
+1380400000,,"National Capital Region (NCR)","City of Malabon",city
+1380500000,,"National Capital Region (NCR)","City of Mandaluyong",city
+1380600000,,"National Capital Region (NCR)","City of Manila",city
+1380700000,,"National Capital Region (NCR)","City of Marikina",city
+1380800000,,"National Capital Region (NCR)","City of Muntinlupa",city
+1380900000,,"National Capital Region (NCR)","City of Navotas",city
+1381000000,,"National Capital Region (NCR)","City of Parañaque",city
+1381100000,,"National Capital Region (NCR)","Pasay City",city
+1381200000,,"National Capital Region (NCR)","City of Pasig",city
+1381300000,,"National Capital Region (NCR)","Quezon City",city
+1381400000,,"National Capital Region (NCR)","City of San Juan",city
+1381500000,,"National Capital Region (NCR)","City of Taguig",city
+1381600000,,"National Capital Region (NCR)","City of Valenzuela",city
+1381701000,,"National Capital Region (NCR)",Pateros,municipality
+1400101000,1400100000,"Cordillera Administrative Region (CAR)",Bangued,municipality
+1400102000,1400100000,"Cordillera Administrative Region (CAR)",Boliney,municipality
+1400103000,1400100000,"Cordillera Administrative Region (CAR)",Bucay,municipality
+1400104000,1400100000,"Cordillera Administrative Region (CAR)",Bucloc,municipality
+1400105000,1400100000,"Cordillera Administrative Region (CAR)",Daguioman,municipality
+1400106000,1400100000,"Cordillera Administrative Region (CAR)",Danglas,municipality
+1400107000,1400100000,"Cordillera Administrative Region (CAR)",Dolores,municipality
+1400108000,1400100000,"Cordillera Administrative Region (CAR)","La Paz",municipality
+1400109000,1400100000,"Cordillera Administrative Region (CAR)",Lacub,municipality
+1400110000,1400100000,"Cordillera Administrative Region (CAR)",Lagangilang,municipality
+1400111000,1400100000,"Cordillera Administrative Region (CAR)",Lagayan,municipality
+1400112000,1400100000,"Cordillera Administrative Region (CAR)",Langiden,municipality
+1400113000,1400100000,"Cordillera Administrative Region (CAR)",Licuan-Baay,municipality
+1400114000,1400100000,"Cordillera Administrative Region (CAR)",Luba,municipality
+1400115000,1400100000,"Cordillera Administrative Region (CAR)",Malibcong,municipality
+1400116000,1400100000,"Cordillera Administrative Region (CAR)",Manabo,municipality
+1400117000,1400100000,"Cordillera Administrative Region (CAR)",Peñarrubia,municipality
+1400118000,1400100000,"Cordillera Administrative Region (CAR)",Pidigan,municipality
+1400119000,1400100000,"Cordillera Administrative Region (CAR)",Pilar,municipality
+1400120000,1400100000,"Cordillera Administrative Region (CAR)",Sallapadan,municipality
+1400121000,1400100000,"Cordillera Administrative Region (CAR)","San Isidro",municipality
+1400122000,1400100000,"Cordillera Administrative Region (CAR)","San Juan",municipality
+1400123000,1400100000,"Cordillera Administrative Region (CAR)","San Quintin",municipality
+1400124000,1400100000,"Cordillera Administrative Region (CAR)",Tayum,municipality
+1400125000,1400100000,"Cordillera Administrative Region (CAR)",Tineg,municipality
+1400126000,1400100000,"Cordillera Administrative Region (CAR)",Tubo,municipality
+1400127000,1400100000,"Cordillera Administrative Region (CAR)",Villaviciosa,municipality
+1401101000,1401100000,"Cordillera Administrative Region (CAR)",Atok,municipality
+1401103000,1401100000,"Cordillera Administrative Region (CAR)",Bakun,municipality
+1401104000,1401100000,"Cordillera Administrative Region (CAR)",Bokod,municipality
+1401105000,1401100000,"Cordillera Administrative Region (CAR)",Buguias,municipality
+1401106000,1401100000,"Cordillera Administrative Region (CAR)",Itogon,municipality
+1401107000,1401100000,"Cordillera Administrative Region (CAR)",Kabayan,municipality
+1401108000,1401100000,"Cordillera Administrative Region (CAR)",Kapangan,municipality
+1401109000,1401100000,"Cordillera Administrative Region (CAR)",Kibungan,municipality
+1401110000,1401100000,"Cordillera Administrative Region (CAR)","La Trinidad",municipality
+1401111000,1401100000,"Cordillera Administrative Region (CAR)",Mankayan,municipality
+1401112000,1401100000,"Cordillera Administrative Region (CAR)",Sablan,municipality
+1401113000,1401100000,"Cordillera Administrative Region (CAR)",Tuba,municipality
+1401114000,1401100000,"Cordillera Administrative Region (CAR)",Tublay,municipality
+1402701000,1402700000,"Cordillera Administrative Region (CAR)",Banaue,municipality
+1402702000,1402700000,"Cordillera Administrative Region (CAR)",Hungduan,municipality
+1402703000,1402700000,"Cordillera Administrative Region (CAR)",Kiangan,municipality
+1402704000,1402700000,"Cordillera Administrative Region (CAR)",Lagawe,municipality
+1402705000,1402700000,"Cordillera Administrative Region (CAR)",Lamut,municipality
+1402706000,1402700000,"Cordillera Administrative Region (CAR)",Mayoyao,municipality
+1402707000,1402700000,"Cordillera Administrative Region (CAR)","Alfonso Lista",municipality
+1402708000,1402700000,"Cordillera Administrative Region (CAR)",Aguinaldo,municipality
+1402709000,1402700000,"Cordillera Administrative Region (CAR)",Hingyon,municipality
+1402710000,1402700000,"Cordillera Administrative Region (CAR)",Tinoc,municipality
+1402711000,1402700000,"Cordillera Administrative Region (CAR)",Asipulo,municipality
+1403201000,1403200000,"Cordillera Administrative Region (CAR)",Balbalan,municipality
+1403206000,1403200000,"Cordillera Administrative Region (CAR)",Lubuagan,municipality
+1403208000,1403200000,"Cordillera Administrative Region (CAR)",Pasil,municipality
+1403209000,1403200000,"Cordillera Administrative Region (CAR)",Pinukpuk,municipality
+1403211000,1403200000,"Cordillera Administrative Region (CAR)",Rizal,municipality
+1403213000,1403200000,"Cordillera Administrative Region (CAR)","City of Tabuk",city
+1403214000,1403200000,"Cordillera Administrative Region (CAR)",Tanudan,municipality
+1403215000,1403200000,"Cordillera Administrative Region (CAR)",Tinglayan,municipality
+1404401000,1404400000,"Cordillera Administrative Region (CAR)",Barlig,municipality
+1404402000,1404400000,"Cordillera Administrative Region (CAR)",Bauko,municipality
+1404403000,1404400000,"Cordillera Administrative Region (CAR)",Besao,municipality
+1404404000,1404400000,"Cordillera Administrative Region (CAR)",Bontoc,municipality
+1404405000,1404400000,"Cordillera Administrative Region (CAR)",Natonin,municipality
+1404406000,1404400000,"Cordillera Administrative Region (CAR)",Paracelis,municipality
+1404407000,1404400000,"Cordillera Administrative Region (CAR)",Sabangan,municipality
+1404408000,1404400000,"Cordillera Administrative Region (CAR)",Sadanga,municipality
+1404409000,1404400000,"Cordillera Administrative Region (CAR)",Sagada,municipality
+1404410000,1404400000,"Cordillera Administrative Region (CAR)",Tadian,municipality
+1408101000,1408100000,"Cordillera Administrative Region (CAR)",Calanasan,municipality
+1408102000,1408100000,"Cordillera Administrative Region (CAR)",Conner,municipality
+1408103000,1408100000,"Cordillera Administrative Region (CAR)",Flora,municipality
+1408104000,1408100000,"Cordillera Administrative Region (CAR)",Kabugao,municipality
+1408105000,1408100000,"Cordillera Administrative Region (CAR)",Luna,municipality
+1408106000,1408100000,"Cordillera Administrative Region (CAR)",Pudtol,municipality
+1408107000,1408100000,"Cordillera Administrative Region (CAR)","Santa Marcela",municipality
+1430300000,1408100000,"Cordillera Administrative Region (CAR)","City of Baguio",city
+102801000,102800000,"Region I (Ilocos Region)",Adams,municipality
+102802000,102800000,"Region I (Ilocos Region)",Bacarra,municipality
+102803000,102800000,"Region I (Ilocos Region)",Badoc,municipality
+102804000,102800000,"Region I (Ilocos Region)",Bangui,municipality
+102805000,102800000,"Region I (Ilocos Region)","City of Batac",city
+102806000,102800000,"Region I (Ilocos Region)",Burgos,municipality
+102807000,102800000,"Region I (Ilocos Region)",Carasi,municipality
+102808000,102800000,"Region I (Ilocos Region)",Currimao,municipality
+102809000,102800000,"Region I (Ilocos Region)",Dingras,municipality
+102810000,102800000,"Region I (Ilocos Region)",Dumalneg,municipality
+102811000,102800000,"Region I (Ilocos Region)",Banna,municipality
+102812000,102800000,"Region I (Ilocos Region)","City of Laoag",city
+102813000,102800000,"Region I (Ilocos Region)",Marcos,municipality
+102814000,102800000,"Region I (Ilocos Region)","Nueva Era",municipality
+102815000,102800000,"Region I (Ilocos Region)",Pagudpud,municipality
+102816000,102800000,"Region I (Ilocos Region)",Paoay,municipality
+102817000,102800000,"Region I (Ilocos Region)",Pasuquin,municipality
+102818000,102800000,"Region I (Ilocos Region)",Piddig,municipality
+102819000,102800000,"Region I (Ilocos Region)",Pinili,municipality
+102820000,102800000,"Region I (Ilocos Region)","San Nicolas",municipality
+102821000,102800000,"Region I (Ilocos Region)",Sarrat,municipality
+102822000,102800000,"Region I (Ilocos Region)",Solsona,municipality
+102823000,102800000,"Region I (Ilocos Region)",Vintar,municipality
+102901000,102900000,"Region I (Ilocos Region)",Alilem,municipality
+102902000,102900000,"Region I (Ilocos Region)",Banayoyo,municipality
+102903000,102900000,"Region I (Ilocos Region)",Bantay,municipality
+102904000,102900000,"Region I (Ilocos Region)",Burgos,municipality
+102905000,102900000,"Region I (Ilocos Region)",Cabugao,municipality
+102906000,102900000,"Region I (Ilocos Region)","City of Candon",city
+102907000,102900000,"Region I (Ilocos Region)",Caoayan,municipality
+102908000,102900000,"Region I (Ilocos Region)",Cervantes,municipality
+102909000,102900000,"Region I (Ilocos Region)",Galimuyod,municipality
+102910000,102900000,"Region I (Ilocos Region)","Gregorio del Pilar",municipality
+102911000,102900000,"Region I (Ilocos Region)",Lidlidda,municipality
+102912000,102900000,"Region I (Ilocos Region)",Magsingal,municipality
+102913000,102900000,"Region I (Ilocos Region)",Nagbukel,municipality
+102914000,102900000,"Region I (Ilocos Region)",Narvacan,municipality
+102915000,102900000,"Region I (Ilocos Region)",Quirino,municipality
+102916000,102900000,"Region I (Ilocos Region)",Salcedo,municipality
+102917000,102900000,"Region I (Ilocos Region)","San Emilio",municipality
+102918000,102900000,"Region I (Ilocos Region)","San Esteban",municipality
+102919000,102900000,"Region I (Ilocos Region)","San Ildefonso",municipality
+102920000,102900000,"Region I (Ilocos Region)","San Juan",municipality
+102921000,102900000,"Region I (Ilocos Region)","San Vicente",municipality
+102922000,102900000,"Region I (Ilocos Region)",Santa,municipality
+102923000,102900000,"Region I (Ilocos Region)","Santa Catalina",municipality
+102924000,102900000,"Region I (Ilocos Region)","Santa Cruz",municipality
+102925000,102900000,"Region I (Ilocos Region)","Santa Lucia",municipality
+102926000,102900000,"Region I (Ilocos Region)","Santa Maria",municipality
+102927000,102900000,"Region I (Ilocos Region)",Santiago,municipality
+102928000,102900000,"Region I (Ilocos Region)","Santo Domingo",municipality
+102929000,102900000,"Region I (Ilocos Region)",Sigay,municipality
+102930000,102900000,"Region I (Ilocos Region)",Sinait,municipality
+102931000,102900000,"Region I (Ilocos Region)",Sugpon,municipality
+102932000,102900000,"Region I (Ilocos Region)",Suyo,municipality
+102933000,102900000,"Region I (Ilocos Region)",Tagudin,municipality
+102934000,102900000,"Region I (Ilocos Region)","City of Vigan",city
+103301000,103300000,"Region I (Ilocos Region)",Agoo,municipality
+103302000,103300000,"Region I (Ilocos Region)",Aringay,municipality
+103303000,103300000,"Region I (Ilocos Region)",Bacnotan,municipality
+103304000,103300000,"Region I (Ilocos Region)",Bagulin,municipality
+103305000,103300000,"Region I (Ilocos Region)",Balaoan,municipality
+103306000,103300000,"Region I (Ilocos Region)",Bangar,municipality
+103307000,103300000,"Region I (Ilocos Region)",Bauang,municipality
+103308000,103300000,"Region I (Ilocos Region)",Burgos,municipality
+103309000,103300000,"Region I (Ilocos Region)",Caba,municipality
+103310000,103300000,"Region I (Ilocos Region)",Luna,municipality
+103311000,103300000,"Region I (Ilocos Region)",Naguilian,municipality
+103312000,103300000,"Region I (Ilocos Region)",Pugo,municipality
+103313000,103300000,"Region I (Ilocos Region)",Rosario,municipality
+103314000,103300000,"Region I (Ilocos Region)","City of San Fernando",city
+103315000,103300000,"Region I (Ilocos Region)","San Gabriel",municipality
+103316000,103300000,"Region I (Ilocos Region)","San Juan",municipality
+103317000,103300000,"Region I (Ilocos Region)","Santo Tomas",municipality
+103318000,103300000,"Region I (Ilocos Region)",Santol,municipality
+103319000,103300000,"Region I (Ilocos Region)",Sudipen,municipality
+103320000,103300000,"Region I (Ilocos Region)",Tubao,municipality
+105501000,105500000,"Region I (Ilocos Region)",Agno,municipality
+105502000,105500000,"Region I (Ilocos Region)",Aguilar,municipality
+105503000,105500000,"Region I (Ilocos Region)","City of Alaminos",city
+105504000,105500000,"Region I (Ilocos Region)",Alcala,municipality
+105505000,105500000,"Region I (Ilocos Region)",Anda,municipality
+105506000,105500000,"Region I (Ilocos Region)",Asingan,municipality
+105507000,105500000,"Region I (Ilocos Region)",Balungao,municipality
+105508000,105500000,"Region I (Ilocos Region)",Bani,municipality
+105509000,105500000,"Region I (Ilocos Region)",Basista,municipality
+105510000,105500000,"Region I (Ilocos Region)",Bautista,municipality
+105511000,105500000,"Region I (Ilocos Region)",Bayambang,municipality
+105512000,105500000,"Region I (Ilocos Region)",Binalonan,municipality
+105513000,105500000,"Region I (Ilocos Region)",Binmaley,municipality
+105514000,105500000,"Region I (Ilocos Region)",Bolinao,municipality
+105515000,105500000,"Region I (Ilocos Region)",Bugallon,municipality
+105516000,105500000,"Region I (Ilocos Region)",Burgos,municipality
+105517000,105500000,"Region I (Ilocos Region)",Calasiao,municipality
+105518000,105500000,"Region I (Ilocos Region)","City of Dagupan",city
+105519000,105500000,"Region I (Ilocos Region)",Dasol,municipality
+105520000,105500000,"Region I (Ilocos Region)",Infanta,municipality
+105521000,105500000,"Region I (Ilocos Region)",Labrador,municipality
+105522000,105500000,"Region I (Ilocos Region)",Lingayen,municipality
+105523000,105500000,"Region I (Ilocos Region)",Mabini,municipality
+105524000,105500000,"Region I (Ilocos Region)",Malasiqui,municipality
+105525000,105500000,"Region I (Ilocos Region)",Manaoag,municipality
+105526000,105500000,"Region I (Ilocos Region)",Mangaldan,municipality
+105527000,105500000,"Region I (Ilocos Region)",Mangatarem,municipality
+105528000,105500000,"Region I (Ilocos Region)",Mapandan,municipality
+105529000,105500000,"Region I (Ilocos Region)",Natividad,municipality
+105530000,105500000,"Region I (Ilocos Region)",Pozorrubio,municipality
+105531000,105500000,"Region I (Ilocos Region)",Rosales,municipality
+105532000,105500000,"Region I (Ilocos Region)","City of San Carlos",city
+105533000,105500000,"Region I (Ilocos Region)","San Fabian",municipality
+105534000,105500000,"Region I (Ilocos Region)","San Jacinto",municipality
+105535000,105500000,"Region I (Ilocos Region)","San Manuel",municipality
+105536000,105500000,"Region I (Ilocos Region)","San Nicolas",municipality
+105537000,105500000,"Region I (Ilocos Region)","San Quintin",municipality
+105538000,105500000,"Region I (Ilocos Region)","Santa Barbara",municipality
+105539000,105500000,"Region I (Ilocos Region)","Santa Maria",municipality
+105540000,105500000,"Region I (Ilocos Region)","Santo Tomas",municipality
+105541000,105500000,"Region I (Ilocos Region)",Sison,municipality
+105542000,105500000,"Region I (Ilocos Region)",Sual,municipality
+105543000,105500000,"Region I (Ilocos Region)",Tayug,municipality
+105544000,105500000,"Region I (Ilocos Region)",Umingan,municipality
+105545000,105500000,"Region I (Ilocos Region)",Urbiztondo,municipality
+105546000,105500000,"Region I (Ilocos Region)","City of Urdaneta",city
+105547000,105500000,"Region I (Ilocos Region)",Villasis,municipality
+105548000,105500000,"Region I (Ilocos Region)",Laoac,municipality
+200901000,200900000,"Region II (Cagayan Valley)",Basco,municipality
+200902000,200900000,"Region II (Cagayan Valley)",Itbayat,municipality
+200903000,200900000,"Region II (Cagayan Valley)",Ivana,municipality
+200904000,200900000,"Region II (Cagayan Valley)",Mahatao,municipality
+200905000,200900000,"Region II (Cagayan Valley)",Sabtang,municipality
+200906000,200900000,"Region II (Cagayan Valley)",Uyugan,municipality
+201501000,201500000,"Region II (Cagayan Valley)",Abulug,municipality
+201502000,201500000,"Region II (Cagayan Valley)",Alcala,municipality
+201503000,201500000,"Region II (Cagayan Valley)",Allacapan,municipality
+201504000,201500000,"Region II (Cagayan Valley)",Amulung,municipality
+201505000,201500000,"Region II (Cagayan Valley)",Aparri,municipality
+201506000,201500000,"Region II (Cagayan Valley)",Baggao,municipality
+201507000,201500000,"Region II (Cagayan Valley)",Ballesteros,municipality
+201508000,201500000,"Region II (Cagayan Valley)",Buguey,municipality
+201509000,201500000,"Region II (Cagayan Valley)",Calayan,municipality
+201510000,201500000,"Region II (Cagayan Valley)",Camalaniugan,municipality
+201511000,201500000,"Region II (Cagayan Valley)",Claveria,municipality
+201512000,201500000,"Region II (Cagayan Valley)",Enrile,municipality
+201513000,201500000,"Region II (Cagayan Valley)",Gattaran,municipality
+201514000,201500000,"Region II (Cagayan Valley)",Gonzaga,municipality
+201515000,201500000,"Region II (Cagayan Valley)",Iguig,municipality
+201516000,201500000,"Region II (Cagayan Valley)",Lal-Lo,municipality
+201517000,201500000,"Region II (Cagayan Valley)",Lasam,municipality
+201518000,201500000,"Region II (Cagayan Valley)",Pamplona,municipality
+201519000,201500000,"Region II (Cagayan Valley)",Peñablanca,municipality
+201520000,201500000,"Region II (Cagayan Valley)",Piat,municipality
+201521000,201500000,"Region II (Cagayan Valley)",Rizal,municipality
+201522000,201500000,"Region II (Cagayan Valley)",Sanchez-Mira,municipality
+201523000,201500000,"Region II (Cagayan Valley)","Santa Ana",municipality
+201524000,201500000,"Region II (Cagayan Valley)","Santa Praxedes",municipality
+201525000,201500000,"Region II (Cagayan Valley)","Santa Teresita",municipality
+201526000,201500000,"Region II (Cagayan Valley)","Santo Niño",municipality
+201527000,201500000,"Region II (Cagayan Valley)",Solana,municipality
+201528000,201500000,"Region II (Cagayan Valley)",Tuao,municipality
+201529000,201500000,"Region II (Cagayan Valley)","Tuguegarao City",city
+203101000,203100000,"Region II (Cagayan Valley)",Alicia,municipality
+203102000,203100000,"Region II (Cagayan Valley)",Angadanan,municipality
+203103000,203100000,"Region II (Cagayan Valley)",Aurora,municipality
+203104000,203100000,"Region II (Cagayan Valley)","Benito Soliven",municipality
+203105000,203100000,"Region II (Cagayan Valley)",Burgos,municipality
+203106000,203100000,"Region II (Cagayan Valley)",Cabagan,municipality
+203107000,203100000,"Region II (Cagayan Valley)",Cabatuan,municipality
+203108000,203100000,"Region II (Cagayan Valley)","City of Cauayan",city
+203109000,203100000,"Region II (Cagayan Valley)",Cordon,municipality
+203110000,203100000,"Region II (Cagayan Valley)",Dinapigue,municipality
+203111000,203100000,"Region II (Cagayan Valley)",Divilacan,municipality
+203112000,203100000,"Region II (Cagayan Valley)",Echague,municipality
+203113000,203100000,"Region II (Cagayan Valley)",Gamu,municipality
+203114000,203100000,"Region II (Cagayan Valley)","City of Ilagan",city
+203115000,203100000,"Region II (Cagayan Valley)",Jones,municipality
+203116000,203100000,"Region II (Cagayan Valley)",Luna,municipality
+203117000,203100000,"Region II (Cagayan Valley)",Maconacon,municipality
+203118000,203100000,"Region II (Cagayan Valley)","Delfin Albano",municipality
+203119000,203100000,"Region II (Cagayan Valley)",Mallig,municipality
+203120000,203100000,"Region II (Cagayan Valley)",Naguilian,municipality
+203121000,203100000,"Region II (Cagayan Valley)",Palanan,municipality
+203122000,203100000,"Region II (Cagayan Valley)",Quezon,municipality
+203123000,203100000,"Region II (Cagayan Valley)",Quirino,municipality
+203124000,203100000,"Region II (Cagayan Valley)",Ramon,municipality
+203125000,203100000,"Region II (Cagayan Valley)","Reina Mercedes",municipality
+203126000,203100000,"Region II (Cagayan Valley)",Roxas,municipality
+203127000,203100000,"Region II (Cagayan Valley)","San Agustin",municipality
+203128000,203100000,"Region II (Cagayan Valley)","San Guillermo",municipality
+203129000,203100000,"Region II (Cagayan Valley)","San Isidro",municipality
+203130000,203100000,"Region II (Cagayan Valley)","San Manuel",municipality
+203131000,203100000,"Region II (Cagayan Valley)","San Mariano",municipality
+203132000,203100000,"Region II (Cagayan Valley)","San Mateo",municipality
+203133000,203100000,"Region II (Cagayan Valley)","San Pablo",municipality
+203134000,203100000,"Region II (Cagayan Valley)","Santa Maria",municipality
+203135000,203100000,"Region II (Cagayan Valley)","City of Santiago",city
+203136000,203100000,"Region II (Cagayan Valley)","Santo Tomas",municipality
+203137000,203100000,"Region II (Cagayan Valley)",Tumauini,municipality
+205001000,205000000,"Region II (Cagayan Valley)",Ambaguio,municipality
+205002000,205000000,"Region II (Cagayan Valley)",Aritao,municipality
+205003000,205000000,"Region II (Cagayan Valley)",Bagabag,municipality
+205004000,205000000,"Region II (Cagayan Valley)",Bambang,municipality
+205005000,205000000,"Region II (Cagayan Valley)",Bayombong,municipality
+205006000,205000000,"Region II (Cagayan Valley)",Diadi,municipality
+205007000,205000000,"Region II (Cagayan Valley)","Dupax del Norte",municipality
+205008000,205000000,"Region II (Cagayan Valley)","Dupax del Sur",municipality
+205009000,205000000,"Region II (Cagayan Valley)",Kasibu,municipality
+205010000,205000000,"Region II (Cagayan Valley)",Kayapa,municipality
+205011000,205000000,"Region II (Cagayan Valley)",Quezon,municipality
+205012000,205000000,"Region II (Cagayan Valley)","Santa Fe",municipality
+205013000,205000000,"Region II (Cagayan Valley)",Solano,municipality
+205014000,205000000,"Region II (Cagayan Valley)",Villaverde,municipality
+205015000,205000000,"Region II (Cagayan Valley)","Alfonso Castaneda",municipality
+205701000,205700000,"Region II (Cagayan Valley)",Aglipay,municipality
+205702000,205700000,"Region II (Cagayan Valley)",Cabarroguis,municipality
+205703000,205700000,"Region II (Cagayan Valley)",Diffun,municipality
+205704000,205700000,"Region II (Cagayan Valley)",Maddela,municipality
+205705000,205700000,"Region II (Cagayan Valley)",Saguday,municipality
+205706000,205700000,"Region II (Cagayan Valley)",Nagtipunan,municipality
+300801000,300800000,"Region III (Central Luzon)",Abucay,municipality
+300802000,300800000,"Region III (Central Luzon)",Bagac,municipality
+300803000,300800000,"Region III (Central Luzon)","City of Balanga",city
+300804000,300800000,"Region III (Central Luzon)",Dinalupihan,municipality
+300805000,300800000,"Region III (Central Luzon)",Hermosa,municipality
+300806000,300800000,"Region III (Central Luzon)",Limay,municipality
+300807000,300800000,"Region III (Central Luzon)",Mariveles,municipality
+300808000,300800000,"Region III (Central Luzon)",Morong,municipality
+300809000,300800000,"Region III (Central Luzon)",Orani,municipality
+300810000,300800000,"Region III (Central Luzon)",Orion,municipality
+300811000,300800000,"Region III (Central Luzon)",Pilar,municipality
+300812000,300800000,"Region III (Central Luzon)",Samal,municipality
+301401000,301400000,"Region III (Central Luzon)",Angat,municipality
+301402000,301400000,"Region III (Central Luzon)",Balagtas,municipality
+301403000,301400000,"Region III (Central Luzon)","City of Baliwag",city
+301404000,301400000,"Region III (Central Luzon)",Bocaue,municipality
+301405000,301400000,"Region III (Central Luzon)",Bulacan,municipality
+301406000,301400000,"Region III (Central Luzon)",Bustos,municipality
+301407000,301400000,"Region III (Central Luzon)",Calumpit,municipality
+301408000,301400000,"Region III (Central Luzon)",Guiguinto,municipality
+301409000,301400000,"Region III (Central Luzon)",Hagonoy,municipality
+301410000,301400000,"Region III (Central Luzon)","City of Malolos",city
+301411000,301400000,"Region III (Central Luzon)",Marilao,municipality
+301412000,301400000,"Region III (Central Luzon)","City of Meycauayan",city
+301413000,301400000,"Region III (Central Luzon)",Norzagaray,municipality
+301414000,301400000,"Region III (Central Luzon)",Obando,municipality
+301415000,301400000,"Region III (Central Luzon)",Pandi,municipality
+301416000,301400000,"Region III (Central Luzon)",Paombong,municipality
+301417000,301400000,"Region III (Central Luzon)",Plaridel,municipality
+301418000,301400000,"Region III (Central Luzon)",Pulilan,municipality
+301419000,301400000,"Region III (Central Luzon)","San Ildefonso",municipality
+301420000,301400000,"Region III (Central Luzon)","City of San Jose Del Monte",city
+301421000,301400000,"Region III (Central Luzon)","San Miguel",municipality
+301422000,301400000,"Region III (Central Luzon)","San Rafael",municipality
+301423000,301400000,"Region III (Central Luzon)","Santa Maria",municipality
+301424000,301400000,"Region III (Central Luzon)","Doña Remedios Trinidad",municipality
+304901000,304900000,"Region III (Central Luzon)",Aliaga,municipality
+304902000,304900000,"Region III (Central Luzon)",Bongabon,municipality
+304903000,304900000,"Region III (Central Luzon)","City of Cabanatuan",city
+304904000,304900000,"Region III (Central Luzon)",Cabiao,municipality
+304905000,304900000,"Region III (Central Luzon)",Carranglan,municipality
+304906000,304900000,"Region III (Central Luzon)",Cuyapo,municipality
+304907000,304900000,"Region III (Central Luzon)",Gabaldon,municipality
+304908000,304900000,"Region III (Central Luzon)","City of Gapan",city
+304909000,304900000,"Region III (Central Luzon)","General Mamerto Natividad",municipality
+304910000,304900000,"Region III (Central Luzon)","General Tinio",municipality
+304911000,304900000,"Region III (Central Luzon)",Guimba,municipality
+304912000,304900000,"Region III (Central Luzon)",Jaen,municipality
+304913000,304900000,"Region III (Central Luzon)",Laur,municipality
+304914000,304900000,"Region III (Central Luzon)",Licab,municipality
+304915000,304900000,"Region III (Central Luzon)",Llanera,municipality
+304916000,304900000,"Region III (Central Luzon)",Lupao,municipality
+304917000,304900000,"Region III (Central Luzon)","Science City of Muñoz",city
+304918000,304900000,"Region III (Central Luzon)",Nampicuan,municipality
+304919000,304900000,"Region III (Central Luzon)","City of Palayan",city
+304920000,304900000,"Region III (Central Luzon)",Pantabangan,municipality
+304921000,304900000,"Region III (Central Luzon)",Peñaranda,municipality
+304922000,304900000,"Region III (Central Luzon)",Quezon,municipality
+304923000,304900000,"Region III (Central Luzon)",Rizal,municipality
+304924000,304900000,"Region III (Central Luzon)","San Antonio",municipality
+304925000,304900000,"Region III (Central Luzon)","San Isidro",municipality
+304926000,304900000,"Region III (Central Luzon)","San Jose City",city
+304927000,304900000,"Region III (Central Luzon)","San Leonardo",municipality
+304928000,304900000,"Region III (Central Luzon)","Santa Rosa",municipality
+304929000,304900000,"Region III (Central Luzon)","Santo Domingo",municipality
+304930000,304900000,"Region III (Central Luzon)",Talavera,municipality
+304931000,304900000,"Region III (Central Luzon)",Talugtug,municipality
+304932000,304900000,"Region III (Central Luzon)",Zaragoza,municipality
+305402000,305400000,"Region III (Central Luzon)",Apalit,municipality
+305403000,305400000,"Region III (Central Luzon)",Arayat,municipality
+305404000,305400000,"Region III (Central Luzon)",Bacolor,municipality
+305405000,305400000,"Region III (Central Luzon)",Candaba,municipality
+305406000,305400000,"Region III (Central Luzon)",Floridablanca,municipality
+305407000,305400000,"Region III (Central Luzon)",Guagua,municipality
+305408000,305400000,"Region III (Central Luzon)",Lubao,municipality
+305409000,305400000,"Region III (Central Luzon)","Mabalacat City",city
+305410000,305400000,"Region III (Central Luzon)",Macabebe,municipality
+305411000,305400000,"Region III (Central Luzon)",Magalang,municipality
+305412000,305400000,"Region III (Central Luzon)",Masantol,municipality
+305413000,305400000,"Region III (Central Luzon)",Mexico,municipality
+305414000,305400000,"Region III (Central Luzon)",Minalin,municipality
+305415000,305400000,"Region III (Central Luzon)",Porac,municipality
+305416000,305400000,"Region III (Central Luzon)","City of San Fernando",city
+305417000,305400000,"Region III (Central Luzon)","San Luis",municipality
+305418000,305400000,"Region III (Central Luzon)","San Simon",municipality
+305419000,305400000,"Region III (Central Luzon)","Santa Ana",municipality
+305420000,305400000,"Region III (Central Luzon)","Santa Rita",municipality
+305421000,305400000,"Region III (Central Luzon)","Sto. Tomas",municipality
+305422000,305400000,"Region III (Central Luzon)",Sasmuan,municipality
+306901000,306900000,"Region III (Central Luzon)",Anao,municipality
+306902000,306900000,"Region III (Central Luzon)",Bamban,municipality
+306903000,306900000,"Region III (Central Luzon)",Camiling,municipality
+306904000,306900000,"Region III (Central Luzon)",Capas,municipality
+306905000,306900000,"Region III (Central Luzon)",Concepcion,municipality
+306906000,306900000,"Region III (Central Luzon)",Gerona,municipality
+306907000,306900000,"Region III (Central Luzon)","La Paz",municipality
+306908000,306900000,"Region III (Central Luzon)",Mayantoc,municipality
+306909000,306900000,"Region III (Central Luzon)",Moncada,municipality
+306910000,306900000,"Region III (Central Luzon)",Paniqui,municipality
+306911000,306900000,"Region III (Central Luzon)",Pura,municipality
+306912000,306900000,"Region III (Central Luzon)",Ramos,municipality
+306913000,306900000,"Region III (Central Luzon)","San Clemente",municipality
+306914000,306900000,"Region III (Central Luzon)","San Manuel",municipality
+306915000,306900000,"Region III (Central Luzon)","Santa Ignacia",municipality
+306916000,306900000,"Region III (Central Luzon)","City of Tarlac",city
+306917000,306900000,"Region III (Central Luzon)",Victoria,municipality
+306918000,306900000,"Region III (Central Luzon)","San Jose",municipality
+307101000,307100000,"Region III (Central Luzon)",Botolan,municipality
+307102000,307100000,"Region III (Central Luzon)",Cabangan,municipality
+307103000,307100000,"Region III (Central Luzon)",Candelaria,municipality
+307104000,307100000,"Region III (Central Luzon)",Castillejos,municipality
+307105000,307100000,"Region III (Central Luzon)",Iba,municipality
+307106000,307100000,"Region III (Central Luzon)",Masinloc,municipality
+307108000,307100000,"Region III (Central Luzon)",Palauig,municipality
+307109000,307100000,"Region III (Central Luzon)","San Antonio",municipality
+307110000,307100000,"Region III (Central Luzon)","San Felipe",municipality
+307111000,307100000,"Region III (Central Luzon)","San Marcelino",municipality
+307112000,307100000,"Region III (Central Luzon)","San Narciso",municipality
+307113000,307100000,"Region III (Central Luzon)","Santa Cruz",municipality
+307114000,307100000,"Region III (Central Luzon)",Subic,municipality
+307701000,307700000,"Region III (Central Luzon)",Baler,municipality
+307702000,307700000,"Region III (Central Luzon)",Casiguran,municipality
+307703000,307700000,"Region III (Central Luzon)",Dilasag,municipality
+307704000,307700000,"Region III (Central Luzon)",Dinalungan,municipality
+307705000,307700000,"Region III (Central Luzon)",Dingalan,municipality
+307706000,307700000,"Region III (Central Luzon)",Dipaculao,municipality
+307707000,307700000,"Region III (Central Luzon)","Maria Aurora",municipality
+307708000,307700000,"Region III (Central Luzon)","San Luis",municipality
+330100000,307700000,"Region III (Central Luzon)","City of Angeles",city
+331400000,307700000,"Region III (Central Luzon)","City of Olongapo",city
+401001000,401000000,"Region IV-A (CALABARZON)",Agoncillo,municipality
+401002000,401000000,"Region IV-A (CALABARZON)",Alitagtag,municipality
+401003000,401000000,"Region IV-A (CALABARZON)",Balayan,municipality
+401004000,401000000,"Region IV-A (CALABARZON)",Balete,municipality
+401005000,401000000,"Region IV-A (CALABARZON)","Batangas City",city
+401006000,401000000,"Region IV-A (CALABARZON)",Bauan,municipality
+401007000,401000000,"Region IV-A (CALABARZON)","City of Calaca",city
+401008000,401000000,"Region IV-A (CALABARZON)",Calatagan,municipality
+401009000,401000000,"Region IV-A (CALABARZON)",Cuenca,municipality
+401010000,401000000,"Region IV-A (CALABARZON)",Ibaan,municipality
+401011000,401000000,"Region IV-A (CALABARZON)",Laurel,municipality
+401012000,401000000,"Region IV-A (CALABARZON)",Lemery,municipality
+401013000,401000000,"Region IV-A (CALABARZON)",Lian,municipality
+401014000,401000000,"Region IV-A (CALABARZON)","City of Lipa",city
+401015000,401000000,"Region IV-A (CALABARZON)",Lobo,municipality
+401016000,401000000,"Region IV-A (CALABARZON)",Mabini,municipality
+401017000,401000000,"Region IV-A (CALABARZON)",Malvar,municipality
+401018000,401000000,"Region IV-A (CALABARZON)",Mataasnakahoy,municipality
+401019000,401000000,"Region IV-A (CALABARZON)",Nasugbu,municipality
+401020000,401000000,"Region IV-A (CALABARZON)","Padre Garcia",municipality
+401021000,401000000,"Region IV-A (CALABARZON)",Rosario,municipality
+401022000,401000000,"Region IV-A (CALABARZON)","San Jose",municipality
+401023000,401000000,"Region IV-A (CALABARZON)","San Juan",municipality
+401024000,401000000,"Region IV-A (CALABARZON)","San Luis",municipality
+401025000,401000000,"Region IV-A (CALABARZON)","San Nicolas",municipality
+401026000,401000000,"Region IV-A (CALABARZON)","San Pascual",municipality
+401027000,401000000,"Region IV-A (CALABARZON)","Santa Teresita",municipality
+401028000,401000000,"Region IV-A (CALABARZON)","City of Sto. Tomas",city
+401029000,401000000,"Region IV-A (CALABARZON)",Taal,municipality
+401030000,401000000,"Region IV-A (CALABARZON)",Talisay,municipality
+401031000,401000000,"Region IV-A (CALABARZON)","City of Tanauan",city
+401032000,401000000,"Region IV-A (CALABARZON)",Taysan,municipality
+401033000,401000000,"Region IV-A (CALABARZON)",Tingloy,municipality
+401034000,401000000,"Region IV-A (CALABARZON)",Tuy,municipality
+402101000,402100000,"Region IV-A (CALABARZON)",Alfonso,municipality
+402102000,402100000,"Region IV-A (CALABARZON)",Amadeo,municipality
+402103000,402100000,"Region IV-A (CALABARZON)","City of Bacoor",city
+402104000,402100000,"Region IV-A (CALABARZON)","City of Carmona",city
+402105000,402100000,"Region IV-A (CALABARZON)","City of Cavite",city
+402106000,402100000,"Region IV-A (CALABARZON)","City of Dasmariñas",city
+402107000,402100000,"Region IV-A (CALABARZON)","General Emilio Aguinaldo",municipality
+402108000,402100000,"Region IV-A (CALABARZON)","City of General Trias",city
+402109000,402100000,"Region IV-A (CALABARZON)","City of Imus",city
+402110000,402100000,"Region IV-A (CALABARZON)",Indang,municipality
+402111000,402100000,"Region IV-A (CALABARZON)",Kawit,municipality
+402112000,402100000,"Region IV-A (CALABARZON)",Magallanes,municipality
+402113000,402100000,"Region IV-A (CALABARZON)",Maragondon,municipality
+402114000,402100000,"Region IV-A (CALABARZON)",Mendez,municipality
+402115000,402100000,"Region IV-A (CALABARZON)",Naic,municipality
+402116000,402100000,"Region IV-A (CALABARZON)",Noveleta,municipality
+402117000,402100000,"Region IV-A (CALABARZON)",Rosario,municipality
+402118000,402100000,"Region IV-A (CALABARZON)",Silang,municipality
+402119000,402100000,"Region IV-A (CALABARZON)","City of Tagaytay",city
+402120000,402100000,"Region IV-A (CALABARZON)",Tanza,municipality
+402121000,402100000,"Region IV-A (CALABARZON)",Ternate,municipality
+402122000,402100000,"Region IV-A (CALABARZON)","City of Trece Martires",city
+402123000,402100000,"Region IV-A (CALABARZON)","Gen. Mariano Alvarez",municipality
+403401000,403400000,"Region IV-A (CALABARZON)",Alaminos,municipality
+403402000,403400000,"Region IV-A (CALABARZON)",Bay,municipality
+403403000,403400000,"Region IV-A (CALABARZON)","City of Biñan",city
+403404000,403400000,"Region IV-A (CALABARZON)","City of Cabuyao",city
+403405000,403400000,"Region IV-A (CALABARZON)","City of Calamba",city
+403406000,403400000,"Region IV-A (CALABARZON)",Calauan,municipality
+403407000,403400000,"Region IV-A (CALABARZON)",Cavinti,municipality
+403408000,403400000,"Region IV-A (CALABARZON)",Famy,municipality
+403409000,403400000,"Region IV-A (CALABARZON)",Kalayaan,municipality
+403410000,403400000,"Region IV-A (CALABARZON)",Liliw,municipality
+403411000,403400000,"Region IV-A (CALABARZON)","Los Baños",municipality
+403412000,403400000,"Region IV-A (CALABARZON)",Luisiana,municipality
+403413000,403400000,"Region IV-A (CALABARZON)",Lumban,municipality
+403414000,403400000,"Region IV-A (CALABARZON)",Mabitac,municipality
+403415000,403400000,"Region IV-A (CALABARZON)",Magdalena,municipality
+403416000,403400000,"Region IV-A (CALABARZON)",Majayjay,municipality
+403417000,403400000,"Region IV-A (CALABARZON)",Nagcarlan,municipality
+403418000,403400000,"Region IV-A (CALABARZON)",Paete,municipality
+403419000,403400000,"Region IV-A (CALABARZON)",Pagsanjan,municipality
+403420000,403400000,"Region IV-A (CALABARZON)",Pakil,municipality
+403421000,403400000,"Region IV-A (CALABARZON)",Pangil,municipality
+403422000,403400000,"Region IV-A (CALABARZON)",Pila,municipality
+403423000,403400000,"Region IV-A (CALABARZON)",Rizal,municipality
+403424000,403400000,"Region IV-A (CALABARZON)","City of San Pablo",city
+403425000,403400000,"Region IV-A (CALABARZON)","City of San Pedro",city
+403426000,403400000,"Region IV-A (CALABARZON)","Santa Cruz",municipality
+403427000,403400000,"Region IV-A (CALABARZON)","Santa Maria",municipality
+403428000,403400000,"Region IV-A (CALABARZON)","City of Santa Rosa",city
+403429000,403400000,"Region IV-A (CALABARZON)",Siniloan,municipality
+403430000,403400000,"Region IV-A (CALABARZON)",Victoria,municipality
+405601000,405600000,"Region IV-A (CALABARZON)",Agdangan,municipality
+405602000,405600000,"Region IV-A (CALABARZON)",Alabat,municipality
+405603000,405600000,"Region IV-A (CALABARZON)",Atimonan,municipality
+405605000,405600000,"Region IV-A (CALABARZON)",Buenavista,municipality
+405606000,405600000,"Region IV-A (CALABARZON)",Burdeos,municipality
+405607000,405600000,"Region IV-A (CALABARZON)",Calauag,municipality
+405608000,405600000,"Region IV-A (CALABARZON)",Candelaria,municipality
+405610000,405600000,"Region IV-A (CALABARZON)",Catanauan,municipality
+405615000,405600000,"Region IV-A (CALABARZON)",Dolores,municipality
+405616000,405600000,"Region IV-A (CALABARZON)","General Luna",municipality
+405617000,405600000,"Region IV-A (CALABARZON)","General Nakar",municipality
+405618000,405600000,"Region IV-A (CALABARZON)",Guinayangan,municipality
+405619000,405600000,"Region IV-A (CALABARZON)",Gumaca,municipality
+405620000,405600000,"Region IV-A (CALABARZON)",Infanta,municipality
+405621000,405600000,"Region IV-A (CALABARZON)",Jomalig,municipality
+405622000,405600000,"Region IV-A (CALABARZON)",Lopez,municipality
+405623000,405600000,"Region IV-A (CALABARZON)",Lucban,municipality
+405625000,405600000,"Region IV-A (CALABARZON)",Macalelon,municipality
+405627000,405600000,"Region IV-A (CALABARZON)",Mauban,municipality
+405628000,405600000,"Region IV-A (CALABARZON)",Mulanay,municipality
+405629000,405600000,"Region IV-A (CALABARZON)","Padre Burgos",municipality
+405630000,405600000,"Region IV-A (CALABARZON)",Pagbilao,municipality
+405631000,405600000,"Region IV-A (CALABARZON)",Panukulan,municipality
+405632000,405600000,"Region IV-A (CALABARZON)",Patnanungan,municipality
+405633000,405600000,"Region IV-A (CALABARZON)",Perez,municipality
+405634000,405600000,"Region IV-A (CALABARZON)",Pitogo,municipality
+405635000,405600000,"Region IV-A (CALABARZON)",Plaridel,municipality
+405636000,405600000,"Region IV-A (CALABARZON)",Polillo,municipality
+405637000,405600000,"Region IV-A (CALABARZON)",Quezon,municipality
+405638000,405600000,"Region IV-A (CALABARZON)",Real,municipality
+405639000,405600000,"Region IV-A (CALABARZON)",Sampaloc,municipality
+405640000,405600000,"Region IV-A (CALABARZON)","San Andres",municipality
+405641000,405600000,"Region IV-A (CALABARZON)","San Antonio",municipality
+405642000,405600000,"Region IV-A (CALABARZON)","San Francisco",municipality
+405644000,405600000,"Region IV-A (CALABARZON)","San Narciso",municipality
+405645000,405600000,"Region IV-A (CALABARZON)",Sariaya,municipality
+405646000,405600000,"Region IV-A (CALABARZON)",Tagkawayan,municipality
+405647000,405600000,"Region IV-A (CALABARZON)","City of Tayabas",city
+405648000,405600000,"Region IV-A (CALABARZON)",Tiaong,municipality
+405649000,405600000,"Region IV-A (CALABARZON)",Unisan,municipality
+405801000,405800000,"Region IV-A (CALABARZON)",Angono,municipality
+405802000,405800000,"Region IV-A (CALABARZON)","City of Antipolo",city
+405803000,405800000,"Region IV-A (CALABARZON)",Baras,municipality
+405804000,405800000,"Region IV-A (CALABARZON)",Binangonan,municipality
+405805000,405800000,"Region IV-A (CALABARZON)",Cainta,municipality
+405806000,405800000,"Region IV-A (CALABARZON)",Cardona,municipality
+405807000,405800000,"Region IV-A (CALABARZON)",Jala-Jala,municipality
+405808000,405800000,"Region IV-A (CALABARZON)",Rodriguez,municipality
+405809000,405800000,"Region IV-A (CALABARZON)",Morong,municipality
+405810000,405800000,"Region IV-A (CALABARZON)",Pililla,municipality
+405811000,405800000,"Region IV-A (CALABARZON)","San Mateo",municipality
+405812000,405800000,"Region IV-A (CALABARZON)",Tanay,municipality
+405813000,405800000,"Region IV-A (CALABARZON)",Taytay,municipality
+405814000,405800000,"Region IV-A (CALABARZON)",Teresa,municipality
+431200000,405800000,"Region IV-A (CALABARZON)","City of Lucena",city
+1704001000,1704000000,"MIMAROPA Region",Boac,municipality
+1704002000,1704000000,"MIMAROPA Region",Buenavista,municipality
+1704003000,1704000000,"MIMAROPA Region",Gasan,municipality
+1704004000,1704000000,"MIMAROPA Region",Mogpog,municipality
+1704005000,1704000000,"MIMAROPA Region","Santa Cruz",municipality
+1704006000,1704000000,"MIMAROPA Region",Torrijos,municipality
+1705101000,1705100000,"MIMAROPA Region","Abra De Ilog",municipality
+1705102000,1705100000,"MIMAROPA Region",Calintaan,municipality
+1705103000,1705100000,"MIMAROPA Region",Looc,municipality
+1705104000,1705100000,"MIMAROPA Region",Lubang,municipality
+1705105000,1705100000,"MIMAROPA Region",Magsaysay,municipality
+1705106000,1705100000,"MIMAROPA Region",Mamburao,municipality
+1705107000,1705100000,"MIMAROPA Region",Paluan,municipality
+1705108000,1705100000,"MIMAROPA Region",Rizal,municipality
+1705109000,1705100000,"MIMAROPA Region",Sablayan,municipality
+1705110000,1705100000,"MIMAROPA Region","San Jose",municipality
+1705111000,1705100000,"MIMAROPA Region","Santa Cruz",municipality
+1705201000,1705200000,"MIMAROPA Region",Baco,municipality
+1705202000,1705200000,"MIMAROPA Region",Bansud,municipality
+1705203000,1705200000,"MIMAROPA Region",Bongabong,municipality
+1705204000,1705200000,"MIMAROPA Region",Bulalacao,municipality
+1705205000,1705200000,"MIMAROPA Region","City of Calapan",city
+1705206000,1705200000,"MIMAROPA Region",Gloria,municipality
+1705207000,1705200000,"MIMAROPA Region",Mansalay,municipality
+1705208000,1705200000,"MIMAROPA Region",Naujan,municipality
+1705209000,1705200000,"MIMAROPA Region",Pinamalayan,municipality
+1705210000,1705200000,"MIMAROPA Region",Pola,municipality
+1705211000,1705200000,"MIMAROPA Region","Puerto Galera",municipality
+1705212000,1705200000,"MIMAROPA Region",Roxas,municipality
+1705213000,1705200000,"MIMAROPA Region","San Teodoro",municipality
+1705214000,1705200000,"MIMAROPA Region",Socorro,municipality
+1705215000,1705200000,"MIMAROPA Region",Victoria,municipality
+1705301000,1705300000,"MIMAROPA Region",Aborlan,municipality
+1705302000,1705300000,"MIMAROPA Region",Agutaya,municipality
+1705303000,1705300000,"MIMAROPA Region",Araceli,municipality
+1705304000,1705300000,"MIMAROPA Region",Balabac,municipality
+1705305000,1705300000,"MIMAROPA Region",Bataraza,municipality
+1705306000,1705300000,"MIMAROPA Region","Brooke's Point",municipality
+1705307000,1705300000,"MIMAROPA Region",Busuanga,municipality
+1705308000,1705300000,"MIMAROPA Region",Cagayancillo,municipality
+1705309000,1705300000,"MIMAROPA Region",Coron,municipality
+1705310000,1705300000,"MIMAROPA Region",Cuyo,municipality
+1705311000,1705300000,"MIMAROPA Region",Dumaran,municipality
+1705312000,1705300000,"MIMAROPA Region","El Nido",municipality
+1705313000,1705300000,"MIMAROPA Region",Linapacan,municipality
+1705314000,1705300000,"MIMAROPA Region",Magsaysay,municipality
+1705315000,1705300000,"MIMAROPA Region",Narra,municipality
+1705317000,1705300000,"MIMAROPA Region",Quezon,municipality
+1705318000,1705300000,"MIMAROPA Region",Roxas,municipality
+1705319000,1705300000,"MIMAROPA Region","San Vicente",municipality
+1705320000,1705300000,"MIMAROPA Region",Taytay,municipality
+1705321000,1705300000,"MIMAROPA Region",Kalayaan,municipality
+1705322000,1705300000,"MIMAROPA Region",Culion,municipality
+1705323000,1705300000,"MIMAROPA Region","Dr. Jose P. Rizal",municipality
+1705324000,1705300000,"MIMAROPA Region","Sofronio Española",municipality
+1705901000,1705900000,"MIMAROPA Region",Alcantara,municipality
+1705902000,1705900000,"MIMAROPA Region",Banton,municipality
+1705903000,1705900000,"MIMAROPA Region",Cajidiocan,municipality
+1705904000,1705900000,"MIMAROPA Region",Calatrava,municipality
+1705905000,1705900000,"MIMAROPA Region",Concepcion,municipality
+1705906000,1705900000,"MIMAROPA Region",Corcuera,municipality
+1705907000,1705900000,"MIMAROPA Region",Looc,municipality
+1705908000,1705900000,"MIMAROPA Region",Magdiwang,municipality
+1705909000,1705900000,"MIMAROPA Region",Odiongan,municipality
+1705910000,1705900000,"MIMAROPA Region",Romblon,municipality
+1705911000,1705900000,"MIMAROPA Region","San Agustin",municipality
+1705912000,1705900000,"MIMAROPA Region","San Andres",municipality
+1705913000,1705900000,"MIMAROPA Region","San Fernando",municipality
+1705914000,1705900000,"MIMAROPA Region","San Jose",municipality
+1705915000,1705900000,"MIMAROPA Region","Santa Fe",municipality
+1705916000,1705900000,"MIMAROPA Region",Ferrol,municipality
+1705917000,1705900000,"MIMAROPA Region","Santa Maria",municipality
+1731500000,1705900000,"MIMAROPA Region","City of Puerto Princesa",city
+500501000,500500000,"Region V (Bicol Region)",Bacacay,municipality
+500502000,500500000,"Region V (Bicol Region)",Camalig,municipality
+500503000,500500000,"Region V (Bicol Region)",Daraga,municipality
+500504000,500500000,"Region V (Bicol Region)",Guinobatan,municipality
+500505000,500500000,"Region V (Bicol Region)",Jovellar,municipality
+500506000,500500000,"Region V (Bicol Region)","City of Legazpi",city
+500507000,500500000,"Region V (Bicol Region)",Libon,municipality
+500508000,500500000,"Region V (Bicol Region)","City of Ligao",city
+500509000,500500000,"Region V (Bicol Region)",Malilipot,municipality
+500510000,500500000,"Region V (Bicol Region)",Malinao,municipality
+500511000,500500000,"Region V (Bicol Region)",Manito,municipality
+500512000,500500000,"Region V (Bicol Region)",Oas,municipality
+500513000,500500000,"Region V (Bicol Region)","Pio Duran",municipality
+500514000,500500000,"Region V (Bicol Region)",Polangui,municipality
+500515000,500500000,"Region V (Bicol Region)",Rapu-Rapu,municipality
+500516000,500500000,"Region V (Bicol Region)","Santo Domingo",municipality
+500517000,500500000,"Region V (Bicol Region)","City of Tabaco",city
+500518000,500500000,"Region V (Bicol Region)",Tiwi,municipality
+501601000,501600000,"Region V (Bicol Region)",Basud,municipality
+501602000,501600000,"Region V (Bicol Region)",Capalonga,municipality
+501603000,501600000,"Region V (Bicol Region)",Daet,municipality
+501604000,501600000,"Region V (Bicol Region)","San Lorenzo Ruiz",municipality
+501605000,501600000,"Region V (Bicol Region)","Jose Panganiban",municipality
+501606000,501600000,"Region V (Bicol Region)",Labo,municipality
+501607000,501600000,"Region V (Bicol Region)",Mercedes,municipality
+501608000,501600000,"Region V (Bicol Region)",Paracale,municipality
+501609000,501600000,"Region V (Bicol Region)","San Vicente",municipality
+501610000,501600000,"Region V (Bicol Region)","Santa Elena",municipality
+501611000,501600000,"Region V (Bicol Region)",Talisay,municipality
+501612000,501600000,"Region V (Bicol Region)",Vinzons,municipality
+501701000,501700000,"Region V (Bicol Region)",Baao,municipality
+501702000,501700000,"Region V (Bicol Region)",Balatan,municipality
+501703000,501700000,"Region V (Bicol Region)",Bato,municipality
+501704000,501700000,"Region V (Bicol Region)",Bombon,municipality
+501705000,501700000,"Region V (Bicol Region)",Buhi,municipality
+501706000,501700000,"Region V (Bicol Region)",Bula,municipality
+501707000,501700000,"Region V (Bicol Region)",Cabusao,municipality
+501708000,501700000,"Region V (Bicol Region)",Calabanga,municipality
+501709000,501700000,"Region V (Bicol Region)",Camaligan,municipality
+501710000,501700000,"Region V (Bicol Region)",Canaman,municipality
+501711000,501700000,"Region V (Bicol Region)",Caramoan,municipality
+501712000,501700000,"Region V (Bicol Region)","Del Gallego",municipality
+501713000,501700000,"Region V (Bicol Region)",Gainza,municipality
+501714000,501700000,"Region V (Bicol Region)",Garchitorena,municipality
+501715000,501700000,"Region V (Bicol Region)",Goa,municipality
+501716000,501700000,"Region V (Bicol Region)","City of Iriga",city
+501717000,501700000,"Region V (Bicol Region)",Lagonoy,municipality
+501718000,501700000,"Region V (Bicol Region)",Libmanan,municipality
+501719000,501700000,"Region V (Bicol Region)",Lupi,municipality
+501720000,501700000,"Region V (Bicol Region)",Magarao,municipality
+501721000,501700000,"Region V (Bicol Region)",Milaor,municipality
+501722000,501700000,"Region V (Bicol Region)",Minalabac,municipality
+501723000,501700000,"Region V (Bicol Region)",Nabua,municipality
+501724000,501700000,"Region V (Bicol Region)","City of Naga",city
+501725000,501700000,"Region V (Bicol Region)",Ocampo,municipality
+501726000,501700000,"Region V (Bicol Region)",Pamplona,municipality
+501727000,501700000,"Region V (Bicol Region)",Pasacao,municipality
+501728000,501700000,"Region V (Bicol Region)",Pili,municipality
+501729000,501700000,"Region V (Bicol Region)",Presentacion,municipality
+501730000,501700000,"Region V (Bicol Region)",Ragay,municipality
+501731000,501700000,"Region V (Bicol Region)",Sagñay,municipality
+501732000,501700000,"Region V (Bicol Region)","San Fernando",municipality
+501733000,501700000,"Region V (Bicol Region)","San Jose",municipality
+501734000,501700000,"Region V (Bicol Region)",Sipocot,municipality
+501735000,501700000,"Region V (Bicol Region)",Siruma,municipality
+501736000,501700000,"Region V (Bicol Region)",Tigaon,municipality
+501737000,501700000,"Region V (Bicol Region)",Tinambac,municipality
+502001000,502000000,"Region V (Bicol Region)",Bagamanoc,municipality
+502002000,502000000,"Region V (Bicol Region)",Baras,municipality
+502003000,502000000,"Region V (Bicol Region)",Bato,municipality
+502004000,502000000,"Region V (Bicol Region)",Caramoran,municipality
+502005000,502000000,"Region V (Bicol Region)",Gigmoto,municipality
+502006000,502000000,"Region V (Bicol Region)",Pandan,municipality
+502007000,502000000,"Region V (Bicol Region)",Panganiban,municipality
+502008000,502000000,"Region V (Bicol Region)","San Andres",municipality
+502009000,502000000,"Region V (Bicol Region)","San Miguel",municipality
+502010000,502000000,"Region V (Bicol Region)",Viga,municipality
+502011000,502000000,"Region V (Bicol Region)",Virac,municipality
+504101000,504100000,"Region V (Bicol Region)",Aroroy,municipality
+504102000,504100000,"Region V (Bicol Region)",Baleno,municipality
+504103000,504100000,"Region V (Bicol Region)",Balud,municipality
+504104000,504100000,"Region V (Bicol Region)",Batuan,municipality
+504105000,504100000,"Region V (Bicol Region)",Cataingan,municipality
+504106000,504100000,"Region V (Bicol Region)",Cawayan,municipality
+504107000,504100000,"Region V (Bicol Region)",Claveria,municipality
+504108000,504100000,"Region V (Bicol Region)",Dimasalang,municipality
+504109000,504100000,"Region V (Bicol Region)",Esperanza,municipality
+504110000,504100000,"Region V (Bicol Region)",Mandaon,municipality
+504111000,504100000,"Region V (Bicol Region)","City of Masbate",city
+504112000,504100000,"Region V (Bicol Region)",Milagros,municipality
+504113000,504100000,"Region V (Bicol Region)",Mobo,municipality
+504114000,504100000,"Region V (Bicol Region)",Monreal,municipality
+504115000,504100000,"Region V (Bicol Region)",Palanas,municipality
+504116000,504100000,"Region V (Bicol Region)","Pio V. Corpus",municipality
+504117000,504100000,"Region V (Bicol Region)",Placer,municipality
+504118000,504100000,"Region V (Bicol Region)","San Fernando",municipality
+504119000,504100000,"Region V (Bicol Region)","San Jacinto",municipality
+504120000,504100000,"Region V (Bicol Region)","San Pascual",municipality
+504121000,504100000,"Region V (Bicol Region)",Uson,municipality
+506202000,506200000,"Region V (Bicol Region)",Barcelona,municipality
+506203000,506200000,"Region V (Bicol Region)",Bulan,municipality
+506204000,506200000,"Region V (Bicol Region)",Bulusan,municipality
+506205000,506200000,"Region V (Bicol Region)",Casiguran,municipality
+506206000,506200000,"Region V (Bicol Region)",Castilla,municipality
+506207000,506200000,"Region V (Bicol Region)",Donsol,municipality
+506208000,506200000,"Region V (Bicol Region)",Gubat,municipality
+506209000,506200000,"Region V (Bicol Region)",Irosin,municipality
+506210000,506200000,"Region V (Bicol Region)",Juban,municipality
+506211000,506200000,"Region V (Bicol Region)",Magallanes,municipality
+506212000,506200000,"Region V (Bicol Region)",Matnog,municipality
+506213000,506200000,"Region V (Bicol Region)",Pilar,municipality
+506214000,506200000,"Region V (Bicol Region)","Prieto Diaz",municipality
+506215000,506200000,"Region V (Bicol Region)","Santa Magdalena",municipality
+506216000,506200000,"Region V (Bicol Region)","City of Sorsogon",city
+600401000,600400000,"Region VI (Western Visayas)",Altavas,municipality
+600402000,600400000,"Region VI (Western Visayas)",Balete,municipality
+600403000,600400000,"Region VI (Western Visayas)",Banga,municipality
+600404000,600400000,"Region VI (Western Visayas)",Batan,municipality
+600405000,600400000,"Region VI (Western Visayas)",Buruanga,municipality
+600406000,600400000,"Region VI (Western Visayas)",Ibajay,municipality
+600407000,600400000,"Region VI (Western Visayas)",Kalibo,municipality
+600408000,600400000,"Region VI (Western Visayas)",Lezo,municipality
+600409000,600400000,"Region VI (Western Visayas)",Libacao,municipality
+600410000,600400000,"Region VI (Western Visayas)",Madalag,municipality
+600411000,600400000,"Region VI (Western Visayas)",Makato,municipality
+600412000,600400000,"Region VI (Western Visayas)",Malay,municipality
+600413000,600400000,"Region VI (Western Visayas)",Malinao,municipality
+600414000,600400000,"Region VI (Western Visayas)",Nabas,municipality
+600415000,600400000,"Region VI (Western Visayas)","New Washington",municipality
+600416000,600400000,"Region VI (Western Visayas)",Numancia,municipality
+600417000,600400000,"Region VI (Western Visayas)",Tangalan,municipality
+600601000,600600000,"Region VI (Western Visayas)",Anini-Y,municipality
+600602000,600600000,"Region VI (Western Visayas)",Barbaza,municipality
+600603000,600600000,"Region VI (Western Visayas)",Belison,municipality
+600604000,600600000,"Region VI (Western Visayas)",Bugasong,municipality
+600605000,600600000,"Region VI (Western Visayas)",Caluya,municipality
+600606000,600600000,"Region VI (Western Visayas)",Culasi,municipality
+600607000,600600000,"Region VI (Western Visayas)","Tobias Fornier",municipality
+600608000,600600000,"Region VI (Western Visayas)",Hamtic,municipality
+600609000,600600000,"Region VI (Western Visayas)",Laua-An,municipality
+600610000,600600000,"Region VI (Western Visayas)",Libertad,municipality
+600611000,600600000,"Region VI (Western Visayas)",Pandan,municipality
+600612000,600600000,"Region VI (Western Visayas)",Patnongon,municipality
+600613000,600600000,"Region VI (Western Visayas)","San Jose",municipality
+600614000,600600000,"Region VI (Western Visayas)","San Remigio",municipality
+600615000,600600000,"Region VI (Western Visayas)",Sebaste,municipality
+600616000,600600000,"Region VI (Western Visayas)",Sibalom,municipality
+600617000,600600000,"Region VI (Western Visayas)",Tibiao,municipality
+600618000,600600000,"Region VI (Western Visayas)",Valderrama,municipality
+601901000,601900000,"Region VI (Western Visayas)",Cuartero,municipality
+601902000,601900000,"Region VI (Western Visayas)",Dao,municipality
+601903000,601900000,"Region VI (Western Visayas)",Dumalag,municipality
+601904000,601900000,"Region VI (Western Visayas)",Dumarao,municipality
+601905000,601900000,"Region VI (Western Visayas)",Ivisan,municipality
+601906000,601900000,"Region VI (Western Visayas)",Jamindan,municipality
+601907000,601900000,"Region VI (Western Visayas)",Ma-Ayon,municipality
+601908000,601900000,"Region VI (Western Visayas)",Mambusao,municipality
+601909000,601900000,"Region VI (Western Visayas)",Panay,municipality
+601910000,601900000,"Region VI (Western Visayas)",Panitan,municipality
+601911000,601900000,"Region VI (Western Visayas)",Pilar,municipality
+601912000,601900000,"Region VI (Western Visayas)",Pontevedra,municipality
+601913000,601900000,"Region VI (Western Visayas)","President Roxas",municipality
+601914000,601900000,"Region VI (Western Visayas)","City of Roxas",city
+601915000,601900000,"Region VI (Western Visayas)",Sapi-An,municipality
+601916000,601900000,"Region VI (Western Visayas)",Sigma,municipality
+601917000,601900000,"Region VI (Western Visayas)",Tapaz,municipality
+603001000,603000000,"Region VI (Western Visayas)",Ajuy,municipality
+603002000,603000000,"Region VI (Western Visayas)",Alimodian,municipality
+603003000,603000000,"Region VI (Western Visayas)",Anilao,municipality
+603004000,603000000,"Region VI (Western Visayas)",Badiangan,municipality
+603005000,603000000,"Region VI (Western Visayas)",Balasan,municipality
+603006000,603000000,"Region VI (Western Visayas)",Banate,municipality
+603007000,603000000,"Region VI (Western Visayas)","Barotac Nuevo",municipality
+603008000,603000000,"Region VI (Western Visayas)","Barotac Viejo",municipality
+603009000,603000000,"Region VI (Western Visayas)",Batad,municipality
+603010000,603000000,"Region VI (Western Visayas)",Bingawan,municipality
+603012000,603000000,"Region VI (Western Visayas)",Cabatuan,municipality
+603013000,603000000,"Region VI (Western Visayas)",Calinog,municipality
+603014000,603000000,"Region VI (Western Visayas)",Carles,municipality
+603015000,603000000,"Region VI (Western Visayas)",Concepcion,municipality
+603016000,603000000,"Region VI (Western Visayas)",Dingle,municipality
+603017000,603000000,"Region VI (Western Visayas)",Dueñas,municipality
+603018000,603000000,"Region VI (Western Visayas)",Dumangas,municipality
+603019000,603000000,"Region VI (Western Visayas)",Estancia,municipality
+603020000,603000000,"Region VI (Western Visayas)",Guimbal,municipality
+603021000,603000000,"Region VI (Western Visayas)",Igbaras,municipality
+603023000,603000000,"Region VI (Western Visayas)",Janiuay,municipality
+603025000,603000000,"Region VI (Western Visayas)",Lambunao,municipality
+603026000,603000000,"Region VI (Western Visayas)",Leganes,municipality
+603027000,603000000,"Region VI (Western Visayas)",Lemery,municipality
+603028000,603000000,"Region VI (Western Visayas)",Leon,municipality
+603029000,603000000,"Region VI (Western Visayas)",Maasin,municipality
+603030000,603000000,"Region VI (Western Visayas)",Miagao,municipality
+603031000,603000000,"Region VI (Western Visayas)",Mina,municipality
+603032000,603000000,"Region VI (Western Visayas)","New Lucena",municipality
+603034000,603000000,"Region VI (Western Visayas)",Oton,municipality
+603035000,603000000,"Region VI (Western Visayas)","City of Passi",city
+603036000,603000000,"Region VI (Western Visayas)",Pavia,municipality
+603037000,603000000,"Region VI (Western Visayas)",Pototan,municipality
+603038000,603000000,"Region VI (Western Visayas)","San Dionisio",municipality
+603039000,603000000,"Region VI (Western Visayas)","San Enrique",municipality
+603040000,603000000,"Region VI (Western Visayas)","San Joaquin",municipality
+603041000,603000000,"Region VI (Western Visayas)","San Miguel",municipality
+603042000,603000000,"Region VI (Western Visayas)","San Rafael",municipality
+603043000,603000000,"Region VI (Western Visayas)","Santa Barbara",municipality
+603044000,603000000,"Region VI (Western Visayas)",Sara,municipality
+603045000,603000000,"Region VI (Western Visayas)",Tigbauan,municipality
+603046000,603000000,"Region VI (Western Visayas)",Tubungan,municipality
+603047000,603000000,"Region VI (Western Visayas)",Zarraga,municipality
+607901000,607900000,"Region VI (Western Visayas)",Buenavista,municipality
+607902000,607900000,"Region VI (Western Visayas)",Jordan,municipality
+607903000,607900000,"Region VI (Western Visayas)","Nueva Valencia",municipality
+607904000,607900000,"Region VI (Western Visayas)","San Lorenzo",municipality
+607905000,607900000,"Region VI (Western Visayas)",Sibunag,municipality
+631000000,607900000,"Region VI (Western Visayas)","City of Iloilo",city
+1804502000,1804500000,"Negros Island Region (NIR)","City of Bago",city
+1804503000,1804500000,"Negros Island Region (NIR)",Binalbagan,municipality
+1804504000,1804500000,"Negros Island Region (NIR)","City of Cadiz",city
+1804505000,1804500000,"Negros Island Region (NIR)",Calatrava,municipality
+1804506000,1804500000,"Negros Island Region (NIR)",Candoni,municipality
+1804507000,1804500000,"Negros Island Region (NIR)",Cauayan,municipality
+1804508000,1804500000,"Negros Island Region (NIR)","Enrique B. Magalona",municipality
+1804509000,1804500000,"Negros Island Region (NIR)","City of Escalante",city
+1804510000,1804500000,"Negros Island Region (NIR)","City of Himamaylan",city
+1804511000,1804500000,"Negros Island Region (NIR)",Hinigaran,municipality
+1804512000,1804500000,"Negros Island Region (NIR)",Hinoba-an,municipality
+1804513000,1804500000,"Negros Island Region (NIR)",Ilog,municipality
+1804514000,1804500000,"Negros Island Region (NIR)",Isabela,municipality
+1804515000,1804500000,"Negros Island Region (NIR)","City of Kabankalan",city
+1804516000,1804500000,"Negros Island Region (NIR)","City of La Carlota",city
+1804517000,1804500000,"Negros Island Region (NIR)","La Castellana",municipality
+1804518000,1804500000,"Negros Island Region (NIR)",Manapla,municipality
+1804519000,1804500000,"Negros Island Region (NIR)","Moises Padilla",municipality
+1804520000,1804500000,"Negros Island Region (NIR)",Murcia,municipality
+1804521000,1804500000,"Negros Island Region (NIR)",Pontevedra,municipality
+1804522000,1804500000,"Negros Island Region (NIR)",Pulupandan,municipality
+1804523000,1804500000,"Negros Island Region (NIR)","City of Sagay",city
+1804524000,1804500000,"Negros Island Region (NIR)","City of San Carlos",city
+1804525000,1804500000,"Negros Island Region (NIR)","San Enrique",municipality
+1804526000,1804500000,"Negros Island Region (NIR)","City of Silay",city
+1804527000,1804500000,"Negros Island Region (NIR)","City of Sipalay",city
+1804528000,1804500000,"Negros Island Region (NIR)","City of Talisay",city
+1804529000,1804500000,"Negros Island Region (NIR)",Toboso,municipality
+1804530000,1804500000,"Negros Island Region (NIR)",Valladolid,municipality
+1804531000,1804500000,"Negros Island Region (NIR)","City of Victorias",city
+1804532000,1804500000,"Negros Island Region (NIR)","Salvador Benedicto",municipality
+1804601000,1804600000,"Negros Island Region (NIR)",Amlan,municipality
+1804602000,1804600000,"Negros Island Region (NIR)",Ayungon,municipality
+1804603000,1804600000,"Negros Island Region (NIR)",Bacong,municipality
+1804604000,1804600000,"Negros Island Region (NIR)","City of Bais",city
+1804605000,1804600000,"Negros Island Region (NIR)",Basay,municipality
+1804606000,1804600000,"Negros Island Region (NIR)","City of Bayawan",city
+1804607000,1804600000,"Negros Island Region (NIR)",Bindoy,municipality
+1804608000,1804600000,"Negros Island Region (NIR)","City of Canlaon",city
+1804609000,1804600000,"Negros Island Region (NIR)",Dauin,municipality
+1804610000,1804600000,"Negros Island Region (NIR)","City of Dumaguete",city
+1804611000,1804600000,"Negros Island Region (NIR)","City of Guihulngan",city
+1804612000,1804600000,"Negros Island Region (NIR)",Jimalalud,municipality
+1804613000,1804600000,"Negros Island Region (NIR)","La Libertad",municipality
+1804614000,1804600000,"Negros Island Region (NIR)",Mabinay,municipality
+1804615000,1804600000,"Negros Island Region (NIR)",Manjuyod,municipality
+1804616000,1804600000,"Negros Island Region (NIR)",Pamplona,municipality
+1804617000,1804600000,"Negros Island Region (NIR)","San Jose",municipality
+1804618000,1804600000,"Negros Island Region (NIR)","Santa Catalina",municipality
+1804619000,1804600000,"Negros Island Region (NIR)",Siaton,municipality
+1804620000,1804600000,"Negros Island Region (NIR)",Sibulan,municipality
+1804621000,1804600000,"Negros Island Region (NIR)","City of Tanjay",city
+1804622000,1804600000,"Negros Island Region (NIR)",Tayasan,municipality
+1804623000,1804600000,"Negros Island Region (NIR)",Valencia,municipality
+1804624000,1804600000,"Negros Island Region (NIR)",Vallehermoso,municipality
+1804625000,1804600000,"Negros Island Region (NIR)",Zamboanguita,municipality
+1806101000,1806100000,"Negros Island Region (NIR)","Enrique Villanueva",municipality
+1806102000,1806100000,"Negros Island Region (NIR)",Larena,municipality
+1806103000,1806100000,"Negros Island Region (NIR)",Lazi,municipality
+1806104000,1806100000,"Negros Island Region (NIR)",Maria,municipality
+1806105000,1806100000,"Negros Island Region (NIR)","San Juan",municipality
+1806106000,1806100000,"Negros Island Region (NIR)",Siquijor,municipality
+1830200000,1806100000,"Negros Island Region (NIR)","City of Bacolod",city
+701201000,701200000,"Region VII (Central Visayas)",Alburquerque,municipality
+701202000,701200000,"Region VII (Central Visayas)",Alicia,municipality
+701203000,701200000,"Region VII (Central Visayas)",Anda,municipality
+701204000,701200000,"Region VII (Central Visayas)",Antequera,municipality
+701205000,701200000,"Region VII (Central Visayas)",Baclayon,municipality
+701206000,701200000,"Region VII (Central Visayas)",Balilihan,municipality
+701207000,701200000,"Region VII (Central Visayas)",Batuan,municipality
+701208000,701200000,"Region VII (Central Visayas)",Bilar,municipality
+701209000,701200000,"Region VII (Central Visayas)",Buenavista,municipality
+701210000,701200000,"Region VII (Central Visayas)",Calape,municipality
+701211000,701200000,"Region VII (Central Visayas)",Candijay,municipality
+701212000,701200000,"Region VII (Central Visayas)",Carmen,municipality
+701213000,701200000,"Region VII (Central Visayas)",Catigbian,municipality
+701214000,701200000,"Region VII (Central Visayas)",Clarin,municipality
+701215000,701200000,"Region VII (Central Visayas)",Corella,municipality
+701216000,701200000,"Region VII (Central Visayas)",Cortes,municipality
+701217000,701200000,"Region VII (Central Visayas)",Dagohoy,municipality
+701218000,701200000,"Region VII (Central Visayas)",Danao,municipality
+701219000,701200000,"Region VII (Central Visayas)",Dauis,municipality
+701220000,701200000,"Region VII (Central Visayas)",Dimiao,municipality
+701221000,701200000,"Region VII (Central Visayas)",Duero,municipality
+701222000,701200000,"Region VII (Central Visayas)","Garcia Hernandez",municipality
+701223000,701200000,"Region VII (Central Visayas)",Guindulman,municipality
+701224000,701200000,"Region VII (Central Visayas)",Inabanga,municipality
+701225000,701200000,"Region VII (Central Visayas)",Jagna,municipality
+701226000,701200000,"Region VII (Central Visayas)",Getafe,municipality
+701227000,701200000,"Region VII (Central Visayas)",Lila,municipality
+701228000,701200000,"Region VII (Central Visayas)",Loay,municipality
+701229000,701200000,"Region VII (Central Visayas)",Loboc,municipality
+701230000,701200000,"Region VII (Central Visayas)",Loon,municipality
+701231000,701200000,"Region VII (Central Visayas)",Mabini,municipality
+701232000,701200000,"Region VII (Central Visayas)",Maribojoc,municipality
+701233000,701200000,"Region VII (Central Visayas)",Panglao,municipality
+701234000,701200000,"Region VII (Central Visayas)",Pilar,municipality
+701235000,701200000,"Region VII (Central Visayas)","President Carlos P. Garcia",municipality
+701236000,701200000,"Region VII (Central Visayas)",Sagbayan,municipality
+701237000,701200000,"Region VII (Central Visayas)","San Isidro",municipality
+701238000,701200000,"Region VII (Central Visayas)","San Miguel",municipality
+701239000,701200000,"Region VII (Central Visayas)",Sevilla,municipality
+701240000,701200000,"Region VII (Central Visayas)","Sierra Bullones",municipality
+701241000,701200000,"Region VII (Central Visayas)",Sikatuna,municipality
+701242000,701200000,"Region VII (Central Visayas)","City of Tagbilaran",city
+701243000,701200000,"Region VII (Central Visayas)",Talibon,municipality
+701244000,701200000,"Region VII (Central Visayas)",Trinidad,municipality
+701245000,701200000,"Region VII (Central Visayas)",Tubigon,municipality
+701246000,701200000,"Region VII (Central Visayas)",Ubay,municipality
+701247000,701200000,"Region VII (Central Visayas)",Valencia,municipality
+701248000,701200000,"Region VII (Central Visayas)","Bien Unido",municipality
+702201000,702200000,"Region VII (Central Visayas)",Alcantara,municipality
+702202000,702200000,"Region VII (Central Visayas)",Alcoy,municipality
+702203000,702200000,"Region VII (Central Visayas)",Alegria,municipality
+702204000,702200000,"Region VII (Central Visayas)",Aloguinsan,municipality
+702205000,702200000,"Region VII (Central Visayas)",Argao,municipality
+702206000,702200000,"Region VII (Central Visayas)",Asturias,municipality
+702207000,702200000,"Region VII (Central Visayas)",Badian,municipality
+702208000,702200000,"Region VII (Central Visayas)",Balamban,municipality
+702209000,702200000,"Region VII (Central Visayas)",Bantayan,municipality
+702210000,702200000,"Region VII (Central Visayas)",Barili,municipality
+702211000,702200000,"Region VII (Central Visayas)","City of Bogo",city
+702212000,702200000,"Region VII (Central Visayas)",Boljoon,municipality
+702213000,702200000,"Region VII (Central Visayas)",Borbon,municipality
+702214000,702200000,"Region VII (Central Visayas)","City of Carcar",city
+702215000,702200000,"Region VII (Central Visayas)",Carmen,municipality
+702216000,702200000,"Region VII (Central Visayas)",Catmon,municipality
+702218000,702200000,"Region VII (Central Visayas)",Compostela,municipality
+702219000,702200000,"Region VII (Central Visayas)",Consolacion,municipality
+702220000,702200000,"Region VII (Central Visayas)",Cordova,municipality
+702221000,702200000,"Region VII (Central Visayas)",Daanbantayan,municipality
+702222000,702200000,"Region VII (Central Visayas)",Dalaguete,municipality
+702223000,702200000,"Region VII (Central Visayas)","Danao City",city
+702224000,702200000,"Region VII (Central Visayas)",Dumanjug,municipality
+702225000,702200000,"Region VII (Central Visayas)",Ginatilan,municipality
+702227000,702200000,"Region VII (Central Visayas)",Liloan,municipality
+702228000,702200000,"Region VII (Central Visayas)",Madridejos,municipality
+702229000,702200000,"Region VII (Central Visayas)",Malabuyoc,municipality
+702231000,702200000,"Region VII (Central Visayas)",Medellin,municipality
+702232000,702200000,"Region VII (Central Visayas)",Minglanilla,municipality
+702233000,702200000,"Region VII (Central Visayas)",Moalboal,municipality
+702234000,702200000,"Region VII (Central Visayas)","City of Naga",city
+702235000,702200000,"Region VII (Central Visayas)",Oslob,municipality
+702236000,702200000,"Region VII (Central Visayas)",Pilar,municipality
+702237000,702200000,"Region VII (Central Visayas)",Pinamungajan,municipality
+702238000,702200000,"Region VII (Central Visayas)",Poro,municipality
+702239000,702200000,"Region VII (Central Visayas)",Ronda,municipality
+702240000,702200000,"Region VII (Central Visayas)",Samboan,municipality
+702241000,702200000,"Region VII (Central Visayas)","San Fernando",municipality
+702242000,702200000,"Region VII (Central Visayas)","San Francisco",municipality
+702243000,702200000,"Region VII (Central Visayas)","San Remigio",municipality
+702244000,702200000,"Region VII (Central Visayas)","Santa Fe",municipality
+702245000,702200000,"Region VII (Central Visayas)",Santander,municipality
+702246000,702200000,"Region VII (Central Visayas)",Sibonga,municipality
+702247000,702200000,"Region VII (Central Visayas)",Sogod,municipality
+702248000,702200000,"Region VII (Central Visayas)",Tabogon,municipality
+702249000,702200000,"Region VII (Central Visayas)",Tabuelan,municipality
+702250000,702200000,"Region VII (Central Visayas)","City of Talisay",city
+702251000,702200000,"Region VII (Central Visayas)","City of Toledo",city
+702252000,702200000,"Region VII (Central Visayas)",Tuburan,municipality
+702253000,702200000,"Region VII (Central Visayas)",Tudela,municipality
+730600000,702200000,"Region VII (Central Visayas)","City of Cebu",city
+731100000,702200000,"Region VII (Central Visayas)","City of Lapu-Lapu",city
+731300000,702200000,"Region VII (Central Visayas)","City of Mandaue",city
+802601000,802600000,"Region VIII (Eastern Visayas)",Arteche,municipality
+802602000,802600000,"Region VIII (Eastern Visayas)",Balangiga,municipality
+802603000,802600000,"Region VIII (Eastern Visayas)",Balangkayan,municipality
+802604000,802600000,"Region VIII (Eastern Visayas)","City of Borongan",city
+802605000,802600000,"Region VIII (Eastern Visayas)",Can-Avid,municipality
+802606000,802600000,"Region VIII (Eastern Visayas)",Dolores,municipality
+802607000,802600000,"Region VIII (Eastern Visayas)","General Macarthur",municipality
+802608000,802600000,"Region VIII (Eastern Visayas)",Giporlos,municipality
+802609000,802600000,"Region VIII (Eastern Visayas)",Guiuan,municipality
+802610000,802600000,"Region VIII (Eastern Visayas)",Hernani,municipality
+802611000,802600000,"Region VIII (Eastern Visayas)",Jipapad,municipality
+802612000,802600000,"Region VIII (Eastern Visayas)",Lawaan,municipality
+802613000,802600000,"Region VIII (Eastern Visayas)",Llorente,municipality
+802614000,802600000,"Region VIII (Eastern Visayas)",Maslog,municipality
+802615000,802600000,"Region VIII (Eastern Visayas)",Maydolong,municipality
+802616000,802600000,"Region VIII (Eastern Visayas)",Mercedes,municipality
+802617000,802600000,"Region VIII (Eastern Visayas)",Oras,municipality
+802618000,802600000,"Region VIII (Eastern Visayas)",Quinapondan,municipality
+802619000,802600000,"Region VIII (Eastern Visayas)",Salcedo,municipality
+802620000,802600000,"Region VIII (Eastern Visayas)","San Julian",municipality
+802621000,802600000,"Region VIII (Eastern Visayas)","San Policarpo",municipality
+802622000,802600000,"Region VIII (Eastern Visayas)",Sulat,municipality
+802623000,802600000,"Region VIII (Eastern Visayas)",Taft,municipality
+803701000,803700000,"Region VIII (Eastern Visayas)",Abuyog,municipality
+803702000,803700000,"Region VIII (Eastern Visayas)",Alangalang,municipality
+803703000,803700000,"Region VIII (Eastern Visayas)",Albuera,municipality
+803705000,803700000,"Region VIII (Eastern Visayas)",Babatngon,municipality
+803706000,803700000,"Region VIII (Eastern Visayas)",Barugo,municipality
+803707000,803700000,"Region VIII (Eastern Visayas)",Bato,municipality
+803708000,803700000,"Region VIII (Eastern Visayas)","City of Baybay",city
+803710000,803700000,"Region VIII (Eastern Visayas)",Burauen,municipality
+803713000,803700000,"Region VIII (Eastern Visayas)",Calubian,municipality
+803714000,803700000,"Region VIII (Eastern Visayas)",Capoocan,municipality
+803715000,803700000,"Region VIII (Eastern Visayas)",Carigara,municipality
+803717000,803700000,"Region VIII (Eastern Visayas)",Dagami,municipality
+803718000,803700000,"Region VIII (Eastern Visayas)",Dulag,municipality
+803719000,803700000,"Region VIII (Eastern Visayas)",Hilongos,municipality
+803720000,803700000,"Region VIII (Eastern Visayas)",Hindang,municipality
+803721000,803700000,"Region VIII (Eastern Visayas)",Inopacan,municipality
+803722000,803700000,"Region VIII (Eastern Visayas)",Isabel,municipality
+803723000,803700000,"Region VIII (Eastern Visayas)",Jaro,municipality
+803724000,803700000,"Region VIII (Eastern Visayas)",Javier,municipality
+803725000,803700000,"Region VIII (Eastern Visayas)",Julita,municipality
+803726000,803700000,"Region VIII (Eastern Visayas)",Kananga,municipality
+803728000,803700000,"Region VIII (Eastern Visayas)","La Paz",municipality
+803729000,803700000,"Region VIII (Eastern Visayas)",Leyte,municipality
+803730000,803700000,"Region VIII (Eastern Visayas)",Macarthur,municipality
+803731000,803700000,"Region VIII (Eastern Visayas)",Mahaplag,municipality
+803733000,803700000,"Region VIII (Eastern Visayas)",Matag-Ob,municipality
+803734000,803700000,"Region VIII (Eastern Visayas)",Matalom,municipality
+803735000,803700000,"Region VIII (Eastern Visayas)",Mayorga,municipality
+803736000,803700000,"Region VIII (Eastern Visayas)",Merida,municipality
+803738000,803700000,"Region VIII (Eastern Visayas)","Ormoc City",city
+803739000,803700000,"Region VIII (Eastern Visayas)",Palo,municipality
+803740000,803700000,"Region VIII (Eastern Visayas)",Palompon,municipality
+803741000,803700000,"Region VIII (Eastern Visayas)",Pastrana,municipality
+803742000,803700000,"Region VIII (Eastern Visayas)","San Isidro",municipality
+803743000,803700000,"Region VIII (Eastern Visayas)","San Miguel",municipality
+803744000,803700000,"Region VIII (Eastern Visayas)","Santa Fe",municipality
+803745000,803700000,"Region VIII (Eastern Visayas)",Tabango,municipality
+803746000,803700000,"Region VIII (Eastern Visayas)",Tabontabon,municipality
+803748000,803700000,"Region VIII (Eastern Visayas)",Tanauan,municipality
+803749000,803700000,"Region VIII (Eastern Visayas)",Tolosa,municipality
+803750000,803700000,"Region VIII (Eastern Visayas)",Tunga,municipality
+803751000,803700000,"Region VIII (Eastern Visayas)",Villaba,municipality
+804801000,804800000,"Region VIII (Eastern Visayas)",Allen,municipality
+804802000,804800000,"Region VIII (Eastern Visayas)",Biri,municipality
+804803000,804800000,"Region VIII (Eastern Visayas)",Bobon,municipality
+804804000,804800000,"Region VIII (Eastern Visayas)",Capul,municipality
+804805000,804800000,"Region VIII (Eastern Visayas)",Catarman,municipality
+804806000,804800000,"Region VIII (Eastern Visayas)",Catubig,municipality
+804807000,804800000,"Region VIII (Eastern Visayas)",Gamay,municipality
+804808000,804800000,"Region VIII (Eastern Visayas)",Laoang,municipality
+804809000,804800000,"Region VIII (Eastern Visayas)",Lapinig,municipality
+804810000,804800000,"Region VIII (Eastern Visayas)","Las Navas",municipality
+804811000,804800000,"Region VIII (Eastern Visayas)",Lavezares,municipality
+804812000,804800000,"Region VIII (Eastern Visayas)",Mapanas,municipality
+804813000,804800000,"Region VIII (Eastern Visayas)",Mondragon,municipality
+804814000,804800000,"Region VIII (Eastern Visayas)",Palapag,municipality
+804815000,804800000,"Region VIII (Eastern Visayas)",Pambujan,municipality
+804816000,804800000,"Region VIII (Eastern Visayas)",Rosario,municipality
+804817000,804800000,"Region VIII (Eastern Visayas)","San Antonio",municipality
+804818000,804800000,"Region VIII (Eastern Visayas)","San Isidro",municipality
+804819000,804800000,"Region VIII (Eastern Visayas)","San Jose",municipality
+804820000,804800000,"Region VIII (Eastern Visayas)","San Roque",municipality
+804821000,804800000,"Region VIII (Eastern Visayas)","San Vicente",municipality
+804822000,804800000,"Region VIII (Eastern Visayas)","Silvino Lobos",municipality
+804823000,804800000,"Region VIII (Eastern Visayas)",Victoria,municipality
+804824000,804800000,"Region VIII (Eastern Visayas)","Lope De Vega",municipality
+806001000,806000000,"Region VIII (Eastern Visayas)",Almagro,municipality
+806002000,806000000,"Region VIII (Eastern Visayas)",Basey,municipality
+806003000,806000000,"Region VIII (Eastern Visayas)","City of Calbayog",city
+806004000,806000000,"Region VIII (Eastern Visayas)",Calbiga,municipality
+806005000,806000000,"Region VIII (Eastern Visayas)","City of Catbalogan",city
+806006000,806000000,"Region VIII (Eastern Visayas)",Daram,municipality
+806007000,806000000,"Region VIII (Eastern Visayas)",Gandara,municipality
+806008000,806000000,"Region VIII (Eastern Visayas)",Hinabangan,municipality
+806009000,806000000,"Region VIII (Eastern Visayas)",Jiabong,municipality
+806010000,806000000,"Region VIII (Eastern Visayas)",Marabut,municipality
+806011000,806000000,"Region VIII (Eastern Visayas)",Matuguinao,municipality
+806012000,806000000,"Region VIII (Eastern Visayas)",Motiong,municipality
+806013000,806000000,"Region VIII (Eastern Visayas)",Pinabacdao,municipality
+806014000,806000000,"Region VIII (Eastern Visayas)","San Jose De Buan",municipality
+806015000,806000000,"Region VIII (Eastern Visayas)","San Sebastian",municipality
+806016000,806000000,"Region VIII (Eastern Visayas)","Santa Margarita",municipality
+806017000,806000000,"Region VIII (Eastern Visayas)","Santa Rita",municipality
+806018000,806000000,"Region VIII (Eastern Visayas)","Santo Niño",municipality
+806019000,806000000,"Region VIII (Eastern Visayas)",Talalora,municipality
+806020000,806000000,"Region VIII (Eastern Visayas)",Tarangnan,municipality
+806021000,806000000,"Region VIII (Eastern Visayas)",Villareal,municipality
+806022000,806000000,"Region VIII (Eastern Visayas)",Paranas,municipality
+806023000,806000000,"Region VIII (Eastern Visayas)",Zumarraga,municipality
+806024000,806000000,"Region VIII (Eastern Visayas)",Tagapul-An,municipality
+806025000,806000000,"Region VIII (Eastern Visayas)","San Jorge",municipality
+806026000,806000000,"Region VIII (Eastern Visayas)",Pagsanghan,municipality
+806401000,806400000,"Region VIII (Eastern Visayas)",Anahawan,municipality
+806402000,806400000,"Region VIII (Eastern Visayas)",Bontoc,municipality
+806403000,806400000,"Region VIII (Eastern Visayas)",Hinunangan,municipality
+806404000,806400000,"Region VIII (Eastern Visayas)",Hinundayan,municipality
+806405000,806400000,"Region VIII (Eastern Visayas)",Libagon,municipality
+806406000,806400000,"Region VIII (Eastern Visayas)",Liloan,municipality
+806407000,806400000,"Region VIII (Eastern Visayas)","City of Maasin",city
+806408000,806400000,"Region VIII (Eastern Visayas)",Macrohon,municipality
+806409000,806400000,"Region VIII (Eastern Visayas)",Malitbog,municipality
+806410000,806400000,"Region VIII (Eastern Visayas)","Padre Burgos",municipality
+806411000,806400000,"Region VIII (Eastern Visayas)",Pintuyan,municipality
+806412000,806400000,"Region VIII (Eastern Visayas)","Saint Bernard",municipality
+806413000,806400000,"Region VIII (Eastern Visayas)","San Francisco",municipality
+806414000,806400000,"Region VIII (Eastern Visayas)","San Juan",municipality
+806415000,806400000,"Region VIII (Eastern Visayas)","San Ricardo",municipality
+806416000,806400000,"Region VIII (Eastern Visayas)",Silago,municipality
+806417000,806400000,"Region VIII (Eastern Visayas)",Sogod,municipality
+806418000,806400000,"Region VIII (Eastern Visayas)","Tomas Oppus",municipality
+806419000,806400000,"Region VIII (Eastern Visayas)",Limasawa,municipality
+807801000,807800000,"Region VIII (Eastern Visayas)",Almeria,municipality
+807802000,807800000,"Region VIII (Eastern Visayas)",Biliran,municipality
+807803000,807800000,"Region VIII (Eastern Visayas)",Cabucgayan,municipality
+807804000,807800000,"Region VIII (Eastern Visayas)",Caibiran,municipality
+807805000,807800000,"Region VIII (Eastern Visayas)",Culaba,municipality
+807806000,807800000,"Region VIII (Eastern Visayas)",Kawayan,municipality
+807807000,807800000,"Region VIII (Eastern Visayas)",Maripipi,municipality
+807808000,807800000,"Region VIII (Eastern Visayas)",Naval,municipality
+831600000,807800000,"Region VIII (Eastern Visayas)","City of Tacloban",city
+906601000,906600000,"Region IX (Zamboanga Peninsula)",Indanan,municipality
+906602000,906600000,"Region IX (Zamboanga Peninsula)",Jolo,municipality
+906603000,906600000,"Region IX (Zamboanga Peninsula)","Kalingalan Caluang",municipality
+906604000,906600000,"Region IX (Zamboanga Peninsula)",Luuk,municipality
+906605000,906600000,"Region IX (Zamboanga Peninsula)",Maimbung,municipality
+906606000,906600000,"Region IX (Zamboanga Peninsula)","Hadji Panglima Tahil",municipality
+906607000,906600000,"Region IX (Zamboanga Peninsula)","Old Panamao",municipality
+906608000,906600000,"Region IX (Zamboanga Peninsula)",Pangutaran,municipality
+906609000,906600000,"Region IX (Zamboanga Peninsula)",Parang,municipality
+906610000,906600000,"Region IX (Zamboanga Peninsula)",Pata,municipality
+906611000,906600000,"Region IX (Zamboanga Peninsula)",Patikul,municipality
+906612000,906600000,"Region IX (Zamboanga Peninsula)",Siasi,municipality
+906613000,906600000,"Region IX (Zamboanga Peninsula)",Talipao,municipality
+906614000,906600000,"Region IX (Zamboanga Peninsula)",Tapul,municipality
+906615000,906600000,"Region IX (Zamboanga Peninsula)",Tongkil,municipality
+906616000,906600000,"Region IX (Zamboanga Peninsula)","Panglima Estino",municipality
+906617000,906600000,"Region IX (Zamboanga Peninsula)",Lugus,municipality
+906618000,906600000,"Region IX (Zamboanga Peninsula)",Pandami,municipality
+906619000,906600000,"Region IX (Zamboanga Peninsula)",Omar,municipality
+907201000,907200000,"Region IX (Zamboanga Peninsula)","City of Dapitan",city
+907202000,907200000,"Region IX (Zamboanga Peninsula)","City of Dipolog",city
+907203000,907200000,"Region IX (Zamboanga Peninsula)",Katipunan,municipality
+907204000,907200000,"Region IX (Zamboanga Peninsula)","La Libertad",municipality
+907205000,907200000,"Region IX (Zamboanga Peninsula)",Labason,municipality
+907206000,907200000,"Region IX (Zamboanga Peninsula)",Liloy,municipality
+907207000,907200000,"Region IX (Zamboanga Peninsula)",Manukan,municipality
+907208000,907200000,"Region IX (Zamboanga Peninsula)",Mutia,municipality
+907209000,907200000,"Region IX (Zamboanga Peninsula)",Piñan,municipality
+907210000,907200000,"Region IX (Zamboanga Peninsula)",Polanco,municipality
+907211000,907200000,"Region IX (Zamboanga Peninsula)","Pres. Manuel A. Roxas",municipality
+907212000,907200000,"Region IX (Zamboanga Peninsula)",Rizal,municipality
+907213000,907200000,"Region IX (Zamboanga Peninsula)",Salug,municipality
+907214000,907200000,"Region IX (Zamboanga Peninsula)","Sergio Osmeña Sr.",municipality
+907215000,907200000,"Region IX (Zamboanga Peninsula)",Siayan,municipality
+907216000,907200000,"Region IX (Zamboanga Peninsula)",Sibuco,municipality
+907217000,907200000,"Region IX (Zamboanga Peninsula)",Sibutad,municipality
+907218000,907200000,"Region IX (Zamboanga Peninsula)",Sindangan,municipality
+907219000,907200000,"Region IX (Zamboanga Peninsula)",Siocon,municipality
+907220000,907200000,"Region IX (Zamboanga Peninsula)",Sirawai,municipality
+907221000,907200000,"Region IX (Zamboanga Peninsula)",Tampilisan,municipality
+907222000,907200000,"Region IX (Zamboanga Peninsula)","Jose Dalman",municipality
+907223000,907200000,"Region IX (Zamboanga Peninsula)",Gutalac,municipality
+907224000,907200000,"Region IX (Zamboanga Peninsula)",Baliguian,municipality
+907225000,907200000,"Region IX (Zamboanga Peninsula)",Godod,municipality
+907226000,907200000,"Region IX (Zamboanga Peninsula)","Leon T. Postigo",municipality
+907227000,907200000,"Region IX (Zamboanga Peninsula)",Kalawit,municipality
+907302000,907300000,"Region IX (Zamboanga Peninsula)",Aurora,municipality
+907303000,907300000,"Region IX (Zamboanga Peninsula)",Bayog,municipality
+907305000,907300000,"Region IX (Zamboanga Peninsula)",Dimataling,municipality
+907306000,907300000,"Region IX (Zamboanga Peninsula)",Dinas,municipality
+907307000,907300000,"Region IX (Zamboanga Peninsula)",Dumalinao,municipality
+907308000,907300000,"Region IX (Zamboanga Peninsula)",Dumingag,municipality
+907311000,907300000,"Region IX (Zamboanga Peninsula)",Kumalarang,municipality
+907312000,907300000,"Region IX (Zamboanga Peninsula)",Labangan,municipality
+907313000,907300000,"Region IX (Zamboanga Peninsula)",Lapuyan,municipality
+907315000,907300000,"Region IX (Zamboanga Peninsula)",Mahayag,municipality
+907317000,907300000,"Region IX (Zamboanga Peninsula)",Margosatubig,municipality
+907318000,907300000,"Region IX (Zamboanga Peninsula)",Midsalip,municipality
+907319000,907300000,"Region IX (Zamboanga Peninsula)",Molave,municipality
+907322000,907300000,"Region IX (Zamboanga Peninsula)","City of Pagadian",city
+907323000,907300000,"Region IX (Zamboanga Peninsula)","Ramon Magsaysay",municipality
+907324000,907300000,"Region IX (Zamboanga Peninsula)","San Miguel",municipality
+907325000,907300000,"Region IX (Zamboanga Peninsula)","San Pablo",municipality
+907327000,907300000,"Region IX (Zamboanga Peninsula)",Tabina,municipality
+907328000,907300000,"Region IX (Zamboanga Peninsula)",Tambulig,municipality
+907330000,907300000,"Region IX (Zamboanga Peninsula)",Tukuran,municipality
+907333000,907300000,"Region IX (Zamboanga Peninsula)",Lakewood,municipality
+907337000,907300000,"Region IX (Zamboanga Peninsula)",Josefina,municipality
+907338000,907300000,"Region IX (Zamboanga Peninsula)",Pitogo,municipality
+907340000,907300000,"Region IX (Zamboanga Peninsula)",Sominot,municipality
+907341000,907300000,"Region IX (Zamboanga Peninsula)","Vincenzo A. Sagun",municipality
+907343000,907300000,"Region IX (Zamboanga Peninsula)",Guipos,municipality
+907344000,907300000,"Region IX (Zamboanga Peninsula)",Tigbao,municipality
+908301000,908300000,"Region IX (Zamboanga Peninsula)",Alicia,municipality
+908302000,908300000,"Region IX (Zamboanga Peninsula)",Buug,municipality
+908303000,908300000,"Region IX (Zamboanga Peninsula)",Diplahan,municipality
+908304000,908300000,"Region IX (Zamboanga Peninsula)",Imelda,municipality
+908305000,908300000,"Region IX (Zamboanga Peninsula)",Ipil,municipality
+908306000,908300000,"Region IX (Zamboanga Peninsula)",Kabasalan,municipality
+908307000,908300000,"Region IX (Zamboanga Peninsula)",Mabuhay,municipality
+908308000,908300000,"Region IX (Zamboanga Peninsula)",Malangas,municipality
+908309000,908300000,"Region IX (Zamboanga Peninsula)",Naga,municipality
+908310000,908300000,"Region IX (Zamboanga Peninsula)",Olutanga,municipality
+908311000,908300000,"Region IX (Zamboanga Peninsula)",Payao,municipality
+908312000,908300000,"Region IX (Zamboanga Peninsula)","Roseller Lim",municipality
+908313000,908300000,"Region IX (Zamboanga Peninsula)",Siay,municipality
+908314000,908300000,"Region IX (Zamboanga Peninsula)",Talusan,municipality
+908315000,908300000,"Region IX (Zamboanga Peninsula)",Titay,municipality
+908316000,908300000,"Region IX (Zamboanga Peninsula)",Tungawan,municipality
+990101000,908300000,"Region IX (Zamboanga Peninsula)","City of Isabela",city
+931700000,908300000,"Region IX (Zamboanga Peninsula)","City of Zamboanga",city
+1001301000,1001300000,"Region X (Northern Mindanao)",Baungon,municipality
+1001302000,1001300000,"Region X (Northern Mindanao)",Damulog,municipality
+1001303000,1001300000,"Region X (Northern Mindanao)",Dangcagan,municipality
+1001304000,1001300000,"Region X (Northern Mindanao)","Don Carlos",municipality
+1001305000,1001300000,"Region X (Northern Mindanao)",Impasug-ong,municipality
+1001306000,1001300000,"Region X (Northern Mindanao)",Kadingilan,municipality
+1001307000,1001300000,"Region X (Northern Mindanao)",Kalilangan,municipality
+1001308000,1001300000,"Region X (Northern Mindanao)",Kibawe,municipality
+1001309000,1001300000,"Region X (Northern Mindanao)",Kitaotao,municipality
+1001310000,1001300000,"Region X (Northern Mindanao)",Lantapan,municipality
+1001311000,1001300000,"Region X (Northern Mindanao)",Libona,municipality
+1001312000,1001300000,"Region X (Northern Mindanao)","City of Malaybalay",city
+1001313000,1001300000,"Region X (Northern Mindanao)",Malitbog,municipality
+1001314000,1001300000,"Region X (Northern Mindanao)","Manolo Fortich",municipality
+1001315000,1001300000,"Region X (Northern Mindanao)",Maramag,municipality
+1001316000,1001300000,"Region X (Northern Mindanao)",Pangantucan,municipality
+1001317000,1001300000,"Region X (Northern Mindanao)",Quezon,municipality
+1001318000,1001300000,"Region X (Northern Mindanao)","San Fernando",municipality
+1001319000,1001300000,"Region X (Northern Mindanao)",Sumilao,municipality
+1001320000,1001300000,"Region X (Northern Mindanao)",Talakag,municipality
+1001321000,1001300000,"Region X (Northern Mindanao)","City of Valencia",city
+1001322000,1001300000,"Region X (Northern Mindanao)",Cabanglasan,municipality
+1001801000,1001800000,"Region X (Northern Mindanao)",Catarman,municipality
+1001802000,1001800000,"Region X (Northern Mindanao)",Guinsiliban,municipality
+1001803000,1001800000,"Region X (Northern Mindanao)",Mahinog,municipality
+1001804000,1001800000,"Region X (Northern Mindanao)",Mambajao,municipality
+1001805000,1001800000,"Region X (Northern Mindanao)",Sagay,municipality
+1003501000,1003500000,"Region X (Northern Mindanao)",Bacolod,municipality
+1003502000,1003500000,"Region X (Northern Mindanao)",Baloi,municipality
+1003503000,1003500000,"Region X (Northern Mindanao)",Baroy,municipality
+1003505000,1003500000,"Region X (Northern Mindanao)",Kapatagan,municipality
+1003506000,1003500000,"Region X (Northern Mindanao)","Sultan Naga Dimaporo",municipality
+1003507000,1003500000,"Region X (Northern Mindanao)",Kauswagan,municipality
+1003508000,1003500000,"Region X (Northern Mindanao)",Kolambugan,municipality
+1003509000,1003500000,"Region X (Northern Mindanao)",Lala,municipality
+1003510000,1003500000,"Region X (Northern Mindanao)",Linamon,municipality
+1003511000,1003500000,"Region X (Northern Mindanao)",Magsaysay,municipality
+1003512000,1003500000,"Region X (Northern Mindanao)",Maigo,municipality
+1003513000,1003500000,"Region X (Northern Mindanao)",Matungao,municipality
+1003514000,1003500000,"Region X (Northern Mindanao)",Munai,municipality
+1003515000,1003500000,"Region X (Northern Mindanao)",Nunungan,municipality
+1003516000,1003500000,"Region X (Northern Mindanao)","Pantao Ragat",municipality
+1003517000,1003500000,"Region X (Northern Mindanao)","Poona Piagapo",municipality
+1003518000,1003500000,"Region X (Northern Mindanao)",Salvador,municipality
+1003519000,1003500000,"Region X (Northern Mindanao)",Sapad,municipality
+1003520000,1003500000,"Region X (Northern Mindanao)",Tagoloan,municipality
+1003521000,1003500000,"Region X (Northern Mindanao)",Tangcal,municipality
+1003522000,1003500000,"Region X (Northern Mindanao)",Tubod,municipality
+1003523000,1003500000,"Region X (Northern Mindanao)",Pantar,municipality
+1004201000,1004200000,"Region X (Northern Mindanao)",Aloran,municipality
+1004202000,1004200000,"Region X (Northern Mindanao)",Baliangao,municipality
+1004203000,1004200000,"Region X (Northern Mindanao)",Bonifacio,municipality
+1004204000,1004200000,"Region X (Northern Mindanao)",Calamba,municipality
+1004205000,1004200000,"Region X (Northern Mindanao)",Clarin,municipality
+1004206000,1004200000,"Region X (Northern Mindanao)",Concepcion,municipality
+1004207000,1004200000,"Region X (Northern Mindanao)",Jimenez,municipality
+1004208000,1004200000,"Region X (Northern Mindanao)","Lopez Jaena",municipality
+1004209000,1004200000,"Region X (Northern Mindanao)","City of Oroquieta",city
+1004210000,1004200000,"Region X (Northern Mindanao)","City of Ozamiz",city
+1004211000,1004200000,"Region X (Northern Mindanao)",Panaon,municipality
+1004212000,1004200000,"Region X (Northern Mindanao)",Plaridel,municipality
+1004213000,1004200000,"Region X (Northern Mindanao)","Sapang Dalaga",municipality
+1004214000,1004200000,"Region X (Northern Mindanao)",Sinacaban,municipality
+1004215000,1004200000,"Region X (Northern Mindanao)","City of Tangub",city
+1004216000,1004200000,"Region X (Northern Mindanao)",Tudela,municipality
+1004217000,1004200000,"Region X (Northern Mindanao)","Don Victoriano Chiongbian",municipality
+1004301000,1004300000,"Region X (Northern Mindanao)",Alubijid,municipality
+1004302000,1004300000,"Region X (Northern Mindanao)",Balingasag,municipality
+1004303000,1004300000,"Region X (Northern Mindanao)",Balingoan,municipality
+1004304000,1004300000,"Region X (Northern Mindanao)",Binuangan,municipality
+1004306000,1004300000,"Region X (Northern Mindanao)",Claveria,municipality
+1004307000,1004300000,"Region X (Northern Mindanao)","City of El Salvador",city
+1004308000,1004300000,"Region X (Northern Mindanao)","City of Gingoog",city
+1004309000,1004300000,"Region X (Northern Mindanao)",Gitagum,municipality
+1004310000,1004300000,"Region X (Northern Mindanao)",Initao,municipality
+1004311000,1004300000,"Region X (Northern Mindanao)",Jasaan,municipality
+1004312000,1004300000,"Region X (Northern Mindanao)",Kinoguitan,municipality
+1004313000,1004300000,"Region X (Northern Mindanao)",Lagonglong,municipality
+1004314000,1004300000,"Region X (Northern Mindanao)",Laguindingan,municipality
+1004315000,1004300000,"Region X (Northern Mindanao)",Libertad,municipality
+1004316000,1004300000,"Region X (Northern Mindanao)",Lugait,municipality
+1004317000,1004300000,"Region X (Northern Mindanao)",Magsaysay,municipality
+1004318000,1004300000,"Region X (Northern Mindanao)",Manticao,municipality
+1004319000,1004300000,"Region X (Northern Mindanao)",Medina,municipality
+1004320000,1004300000,"Region X (Northern Mindanao)",Naawan,municipality
+1004321000,1004300000,"Region X (Northern Mindanao)",Opol,municipality
+1004322000,1004300000,"Region X (Northern Mindanao)",Salay,municipality
+1004323000,1004300000,"Region X (Northern Mindanao)",Sugbongcogon,municipality
+1004324000,1004300000,"Region X (Northern Mindanao)",Tagoloan,municipality
+1004325000,1004300000,"Region X (Northern Mindanao)",Talisayan,municipality
+1004326000,1004300000,"Region X (Northern Mindanao)",Villanueva,municipality
+1030500000,1004300000,"Region X (Northern Mindanao)","City of Cagayan De Oro",city
+1030900000,1004300000,"Region X (Northern Mindanao)","City of Iligan",city
+1102301000,1102300000,"Region XI (Davao Region)",Asuncion,municipality
+1102303000,1102300000,"Region XI (Davao Region)",Carmen,municipality
+1102305000,1102300000,"Region XI (Davao Region)",Kapalong,municipality
+1102314000,1102300000,"Region XI (Davao Region)","New Corella",municipality
+1102315000,1102300000,"Region XI (Davao Region)","City of Panabo",city
+1102317000,1102300000,"Region XI (Davao Region)","Island Garden City of Samal",city
+1102318000,1102300000,"Region XI (Davao Region)","Santo Tomas",municipality
+1102319000,1102300000,"Region XI (Davao Region)","City of Tagum",city
+1102322000,1102300000,"Region XI (Davao Region)",Talaingod,municipality
+1102323000,1102300000,"Region XI (Davao Region)","Braulio E. Dujali",municipality
+1102324000,1102300000,"Region XI (Davao Region)","San Isidro",municipality
+1102401000,1102400000,"Region XI (Davao Region)",Bansalan,municipality
+1102403000,1102400000,"Region XI (Davao Region)","City of Digos",city
+1102404000,1102400000,"Region XI (Davao Region)",Hagonoy,municipality
+1102406000,1102400000,"Region XI (Davao Region)",Kiblawan,municipality
+1102407000,1102400000,"Region XI (Davao Region)",Magsaysay,municipality
+1102408000,1102400000,"Region XI (Davao Region)",Malalag,municipality
+1102410000,1102400000,"Region XI (Davao Region)",Matanao,municipality
+1102411000,1102400000,"Region XI (Davao Region)",Padada,municipality
+1102412000,1102400000,"Region XI (Davao Region)","Santa Cruz",municipality
+1102414000,1102400000,"Region XI (Davao Region)",Sulop,municipality
+1102501000,1102500000,"Region XI (Davao Region)",Baganga,municipality
+1102502000,1102500000,"Region XI (Davao Region)",Banaybanay,municipality
+1102503000,1102500000,"Region XI (Davao Region)",Boston,municipality
+1102504000,1102500000,"Region XI (Davao Region)",Caraga,municipality
+1102505000,1102500000,"Region XI (Davao Region)",Cateel,municipality
+1102506000,1102500000,"Region XI (Davao Region)","Governor Generoso",municipality
+1102507000,1102500000,"Region XI (Davao Region)",Lupon,municipality
+1102508000,1102500000,"Region XI (Davao Region)",Manay,municipality
+1102509000,1102500000,"Region XI (Davao Region)","City of Mati",city
+1102510000,1102500000,"Region XI (Davao Region)","San Isidro",municipality
+1102511000,1102500000,"Region XI (Davao Region)",Tarragona,municipality
+1108201000,1108200000,"Region XI (Davao Region)",Compostela,municipality
+1108202000,1108200000,"Region XI (Davao Region)",Laak,municipality
+1108203000,1108200000,"Region XI (Davao Region)",Mabini,municipality
+1108204000,1108200000,"Region XI (Davao Region)",Maco,municipality
+1108205000,1108200000,"Region XI (Davao Region)",Maragusan,municipality
+1108206000,1108200000,"Region XI (Davao Region)",Mawab,municipality
+1108207000,1108200000,"Region XI (Davao Region)",Monkayo,municipality
+1108208000,1108200000,"Region XI (Davao Region)",Montevista,municipality
+1108209000,1108200000,"Region XI (Davao Region)",Nabunturan,municipality
+1108210000,1108200000,"Region XI (Davao Region)","New Bataan",municipality
+1108211000,1108200000,"Region XI (Davao Region)",Pantukan,municipality
+1108601000,1108600000,"Region XI (Davao Region)","Don Marcelino",municipality
+1108602000,1108600000,"Region XI (Davao Region)","Jose Abad Santos",municipality
+1108603000,1108600000,"Region XI (Davao Region)",Malita,municipality
+1108604000,1108600000,"Region XI (Davao Region)","Santa Maria",municipality
+1108605000,1108600000,"Region XI (Davao Region)",Sarangani,municipality
+1130700000,1108600000,"Region XI (Davao Region)","City of Davao",city
+1204701000,1204700000,"Region XII (SOCCSKSARGEN)",Alamada,municipality
+1204702000,1204700000,"Region XII (SOCCSKSARGEN)",Carmen,municipality
+1204703000,1204700000,"Region XII (SOCCSKSARGEN)",Kabacan,municipality
+1204704000,1204700000,"Region XII (SOCCSKSARGEN)","City of Kidapawan",city
+1204705000,1204700000,"Region XII (SOCCSKSARGEN)",Libungan,municipality
+1204706000,1204700000,"Region XII (SOCCSKSARGEN)",Magpet,municipality
+1204707000,1204700000,"Region XII (SOCCSKSARGEN)",Makilala,municipality
+1204708000,1204700000,"Region XII (SOCCSKSARGEN)",Matalam,municipality
+1204709000,1204700000,"Region XII (SOCCSKSARGEN)",Midsayap,municipality
+1204710000,1204700000,"Region XII (SOCCSKSARGEN)",M'Lang,municipality
+1204711000,1204700000,"Region XII (SOCCSKSARGEN)",Pigkawayan,municipality
+1204712000,1204700000,"Region XII (SOCCSKSARGEN)",Pikit,municipality
+1204713000,1204700000,"Region XII (SOCCSKSARGEN)","President Roxas",municipality
+1204714000,1204700000,"Region XII (SOCCSKSARGEN)",Tulunan,municipality
+1204715000,1204700000,"Region XII (SOCCSKSARGEN)",Antipas,municipality
+1204716000,1204700000,"Region XII (SOCCSKSARGEN)",Banisilan,municipality
+1204717000,1204700000,"Region XII (SOCCSKSARGEN)",Aleosan,municipality
+1204718000,1204700000,"Region XII (SOCCSKSARGEN)",Arakan,municipality
+1206302000,1206300000,"Region XII (SOCCSKSARGEN)",Banga,municipality
+1206306000,1206300000,"Region XII (SOCCSKSARGEN)","City of Koronadal",city
+1206311000,1206300000,"Region XII (SOCCSKSARGEN)",Norala,municipality
+1206312000,1206300000,"Region XII (SOCCSKSARGEN)",Polomolok,municipality
+1206313000,1206300000,"Region XII (SOCCSKSARGEN)",Surallah,municipality
+1206314000,1206300000,"Region XII (SOCCSKSARGEN)",Tampakan,municipality
+1206315000,1206300000,"Region XII (SOCCSKSARGEN)",Tantangan,municipality
+1206316000,1206300000,"Region XII (SOCCSKSARGEN)",T'Boli,municipality
+1206317000,1206300000,"Region XII (SOCCSKSARGEN)",Tupi,municipality
+1206318000,1206300000,"Region XII (SOCCSKSARGEN)","Santo Niño",municipality
+1206319000,1206300000,"Region XII (SOCCSKSARGEN)","Lake Sebu",municipality
+1206501000,1206500000,"Region XII (SOCCSKSARGEN)",Bagumbayan,municipality
+1206502000,1206500000,"Region XII (SOCCSKSARGEN)",Columbio,municipality
+1206503000,1206500000,"Region XII (SOCCSKSARGEN)",Esperanza,municipality
+1206504000,1206500000,"Region XII (SOCCSKSARGEN)",Isulan,municipality
+1206505000,1206500000,"Region XII (SOCCSKSARGEN)",Kalamansig,municipality
+1206506000,1206500000,"Region XII (SOCCSKSARGEN)",Lebak,municipality
+1206507000,1206500000,"Region XII (SOCCSKSARGEN)",Lutayan,municipality
+1206508000,1206500000,"Region XII (SOCCSKSARGEN)",Lambayong,municipality
+1206509000,1206500000,"Region XII (SOCCSKSARGEN)",Palimbang,municipality
+1206510000,1206500000,"Region XII (SOCCSKSARGEN)","President Quirino",municipality
+1206511000,1206500000,"Region XII (SOCCSKSARGEN)","City of Tacurong",city
+1206512000,1206500000,"Region XII (SOCCSKSARGEN)","Sen. Ninoy Aquino",municipality
+1208001000,1208000000,"Region XII (SOCCSKSARGEN)",Alabel,municipality
+1208002000,1208000000,"Region XII (SOCCSKSARGEN)",Glan,municipality
+1208003000,1208000000,"Region XII (SOCCSKSARGEN)",Kiamba,municipality
+1208004000,1208000000,"Region XII (SOCCSKSARGEN)",Maasim,municipality
+1208005000,1208000000,"Region XII (SOCCSKSARGEN)",Maitum,municipality
+1208006000,1208000000,"Region XII (SOCCSKSARGEN)",Malapatan,municipality
+1208007000,1208000000,"Region XII (SOCCSKSARGEN)",Malungon,municipality
+1230800000,1208000000,"Region XII (SOCCSKSARGEN)","City of General Santos",city
+1600201000,1600200000,"Region XIII (Caraga)",Buenavista,municipality
+1600203000,1600200000,"Region XIII (Caraga)","City of Cabadbaran",city
+1600204000,1600200000,"Region XIII (Caraga)",Carmen,municipality
+1600205000,1600200000,"Region XIII (Caraga)",Jabonga,municipality
+1600206000,1600200000,"Region XIII (Caraga)",Kitcharao,municipality
+1600207000,1600200000,"Region XIII (Caraga)","Las Nieves",municipality
+1600208000,1600200000,"Region XIII (Caraga)",Magallanes,municipality
+1600209000,1600200000,"Region XIII (Caraga)",Nasipit,municipality
+1600210000,1600200000,"Region XIII (Caraga)",Santiago,municipality
+1600211000,1600200000,"Region XIII (Caraga)",Tubay,municipality
+1600212000,1600200000,"Region XIII (Caraga)","Remedios T. Romualdez",municipality
+1600301000,1600300000,"Region XIII (Caraga)","City of Bayugan",city
+1600302000,1600300000,"Region XIII (Caraga)",Bunawan,municipality
+1600303000,1600300000,"Region XIII (Caraga)",Esperanza,municipality
+1600304000,1600300000,"Region XIII (Caraga)","La Paz",municipality
+1600305000,1600300000,"Region XIII (Caraga)",Loreto,municipality
+1600306000,1600300000,"Region XIII (Caraga)",Prosperidad,municipality
+1600307000,1600300000,"Region XIII (Caraga)",Rosario,municipality
+1600308000,1600300000,"Region XIII (Caraga)","San Francisco",municipality
+1600309000,1600300000,"Region XIII (Caraga)","San Luis",municipality
+1600310000,1600300000,"Region XIII (Caraga)","Santa Josefa",municipality
+1600311000,1600300000,"Region XIII (Caraga)",Talacogon,municipality
+1600312000,1600300000,"Region XIII (Caraga)",Trento,municipality
+1600313000,1600300000,"Region XIII (Caraga)",Veruela,municipality
+1600314000,1600300000,"Region XIII (Caraga)",Sibagat,municipality
+1606701000,1606700000,"Region XIII (Caraga)",Alegria,municipality
+1606702000,1606700000,"Region XIII (Caraga)",Bacuag,municipality
+1606704000,1606700000,"Region XIII (Caraga)",Burgos,municipality
+1606706000,1606700000,"Region XIII (Caraga)",Claver,municipality
+1606707000,1606700000,"Region XIII (Caraga)",Dapa,municipality
+1606708000,1606700000,"Region XIII (Caraga)","Del Carmen",municipality
+1606710000,1606700000,"Region XIII (Caraga)","General Luna",municipality
+1606711000,1606700000,"Region XIII (Caraga)",Gigaquit,municipality
+1606714000,1606700000,"Region XIII (Caraga)",Mainit,municipality
+1606715000,1606700000,"Region XIII (Caraga)",Malimono,municipality
+1606716000,1606700000,"Region XIII (Caraga)",Pilar,municipality
+1606717000,1606700000,"Region XIII (Caraga)",Placer,municipality
+1606718000,1606700000,"Region XIII (Caraga)","San Benito",municipality
+1606719000,1606700000,"Region XIII (Caraga)","San Francisco",municipality
+1606720000,1606700000,"Region XIII (Caraga)","San Isidro",municipality
+1606721000,1606700000,"Region XIII (Caraga)","Santa Monica",municipality
+1606722000,1606700000,"Region XIII (Caraga)",Sison,municipality
+1606723000,1606700000,"Region XIII (Caraga)",Socorro,municipality
+1606724000,1606700000,"Region XIII (Caraga)","City of Surigao",city
+1606725000,1606700000,"Region XIII (Caraga)",Tagana-An,municipality
+1606727000,1606700000,"Region XIII (Caraga)",Tubod,municipality
+1606801000,1606800000,"Region XIII (Caraga)",Barobo,municipality
+1606802000,1606800000,"Region XIII (Caraga)",Bayabas,municipality
+1606803000,1606800000,"Region XIII (Caraga)","City of Bislig",city
+1606804000,1606800000,"Region XIII (Caraga)",Cagwait,municipality
+1606805000,1606800000,"Region XIII (Caraga)",Cantilan,municipality
+1606806000,1606800000,"Region XIII (Caraga)",Carmen,municipality
+1606807000,1606800000,"Region XIII (Caraga)",Carrascal,municipality
+1606808000,1606800000,"Region XIII (Caraga)",Cortes,municipality
+1606809000,1606800000,"Region XIII (Caraga)",Hinatuan,municipality
+1606810000,1606800000,"Region XIII (Caraga)",Lanuza,municipality
+1606811000,1606800000,"Region XIII (Caraga)",Lianga,municipality
+1606812000,1606800000,"Region XIII (Caraga)",Lingig,municipality
+1606813000,1606800000,"Region XIII (Caraga)",Madrid,municipality
+1606814000,1606800000,"Region XIII (Caraga)",Marihatag,municipality
+1606815000,1606800000,"Region XIII (Caraga)","San Agustin",municipality
+1606816000,1606800000,"Region XIII (Caraga)","San Miguel",municipality
+1606817000,1606800000,"Region XIII (Caraga)",Tagbina,municipality
+1606818000,1606800000,"Region XIII (Caraga)",Tago,municipality
+1606819000,1606800000,"Region XIII (Caraga)","City of Tandag",city
+1608501000,1608500000,"Region XIII (Caraga)",Basilisa,municipality
+1608502000,1608500000,"Region XIII (Caraga)",Cagdianao,municipality
+1608503000,1608500000,"Region XIII (Caraga)",Dinagat,municipality
+1608504000,1608500000,"Region XIII (Caraga)",Libjo,municipality
+1608505000,1608500000,"Region XIII (Caraga)",Loreto,municipality
+1608506000,1608500000,"Region XIII (Caraga)","San Jose",municipality
+1608507000,1608500000,"Region XIII (Caraga)",Tubajon,municipality
+1630400000,1608500000,"Region XIII (Caraga)","City of Butuan",city
+1900702000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","City of Lamitan",city
+1900703000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Lantawan,municipality
+1900704000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Maluso,municipality
+1900705000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Sumisip,municipality
+1900706000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tipo-Tipo,municipality
+1900707000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tuburan,municipality
+1900708000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Akbar,municipality
+1900709000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Al-Barka,municipality
+1900710000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Hadji Mohammad Ajul",municipality
+1900711000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Ungkaya Pukan",municipality
+1900712000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Hadji Muhtamad",municipality
+1900713000,1900700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tabuan-Lasa,municipality
+1903601000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Bacolod-Kalawi,municipality
+1903602000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Balabagan,municipality
+1903603000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Balindong,municipality
+1903604000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Bayang,municipality
+1903605000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Binidayan,municipality
+1903606000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Bubong,municipality
+1903607000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Butig,municipality
+1903609000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Ganassi,municipality
+1903610000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Kapai,municipality
+1903611000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Lumba-Bayabao,municipality
+1903612000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Lumbatan,municipality
+1903613000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Madalum,municipality
+1903614000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Madamba,municipality
+1903615000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Malabang,municipality
+1903616000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Marantao,municipality
+1903617000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","City of Marawi",city
+1903618000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Masiu,municipality
+1903619000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Mulondo,municipality
+1903620000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Pagayawan,municipality
+1903621000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Piagapo,municipality
+1903622000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Poona Bayabao",municipality
+1903623000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Pualas,municipality
+1903624000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Ditsaan-Ramain,municipality
+1903625000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Saguiaran,municipality
+1903626000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tamparan,municipality
+1903627000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Taraka,municipality
+1903628000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tubaran,municipality
+1903629000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tugaya,municipality
+1903630000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Wao,municipality
+1903631000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Marogong,municipality
+1903632000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Calanogas,municipality
+1903633000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Buadiposo-Buntong,municipality
+1903634000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Maguing,municipality
+1903635000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Picong,municipality
+1903636000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Lumbayanague,municipality
+1903637000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Amai Manabilang",municipality
+1903638000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Tagoloan II",municipality
+1903639000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Kapatagan,municipality
+1903640000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Sultan Dumalondong",municipality
+1903641000,1903600000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Lumbaca-Unayan,municipality
+1907001000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Panglima Sugala",municipality
+1907002000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Bongao,municipality
+1907003000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Mapun,municipality
+1907004000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Simunul,municipality
+1907005000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Sitangkai,municipality
+1907006000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","South Ubian",municipality
+1907007000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tandubas,municipality
+1907008000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Turtle Islands",municipality
+1907009000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Languyan,municipality
+1907010000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Sapa-Sapa,municipality
+1907011000,1907000000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Sibutu,municipality
+1908701000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Barira,municipality
+1908702000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Buldon,municipality
+1908703000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","City of Cotabato",city
+1908704000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Blah T. Sinsuat",municipality
+1908705000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Odin Sinsuat",municipality
+1908706000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Kabuntalan,municipality
+1908707000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Matanog,municipality
+1908708000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Northern Kabuntalan",municipality
+1908709000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Parang,municipality
+1908710000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Sultan Kudarat",municipality
+1908711000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Sultan Mastura",municipality
+1908712000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Talitay,municipality
+1908713000,1908700000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Upi,municipality
+1908801000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Ampatuan,municipality
+1908802000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Buluan,municipality
+1908803000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Abdullah Sangki",municipality
+1908804000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Anggal Midtimbang",municipality
+1908805000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Hoffer Ampatuan",municipality
+1908806000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Paglas",municipality
+1908807000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Piang",municipality
+1908808000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Salibo",municipality
+1908809000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Saudi Ampatuan",municipality
+1908810000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Datu Unsay",municipality
+1908811000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Gen. S.K. Pendatun",municipality
+1908812000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Guindulungan,municipality
+1908813000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Mamasapano,municipality
+1908814000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Mangudadatu,municipality
+1908815000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Pagagawan,municipality
+1908816000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Pagalungan,municipality
+1908817000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Paglat,municipality
+1908818000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Pandag,municipality
+1908819000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Rajah Buayan",municipality
+1908820000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Shariff Aguak",municipality
+1908821000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Shariff Saydona Mustapha",municipality
+1908822000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","South Upi",municipality
+1908823000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Sultan Sa Barongis",municipality
+1908824000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Talayan,municipality
+1999901000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Kapalawan,municipality
+1999902000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)","Old Kaabakan",municipality
+1999903000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Kadayangan,municipality
+1999904000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Nabalawag,municipality
+1999905000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Pahamuddin,municipality
+1999906000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Malidegao,municipality
+1999907000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Ligawasan,municipality
+1999908000,1908800000,"Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",Tugunan,municipality

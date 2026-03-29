@@ -1,0 +1,130 @@
+.comments {
+    margin-top: 18px;
+    padding-top: 14px;
+    border-top: 1px solid #e5e7eb;
+}
+
+.comments__title {
+    margin-bottom: 10px;
+    font-size: 0.95rem;
+    color: #374151;
+}
+
+.comments__form {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 14px;
+}
+
+.comments__form input {
+    flex: 1;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    padding: 10px 12px;
+    background: #f9fafb;
+}
+
+.comments__form input:focus {
+    outline: none;
+    border-color: #2563eb;
+    background: #ffffff;
+}
+
+.comments__form button {
+    border: none;
+    background: #2563eb;
+    color: white;
+    padding: 10px 14px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.comments__form button:hover {
+    background: #1d4ed8;
+}
+
+.comments__list {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.comments__empty {
+    color: #6b7280;
+    font-size: 0.92rem;
+}
+
+.comment-item {
+    background: #f8fafc;
+    border: 1px solid #e5e7eb;
+    border-radius: 12px;
+    padding: 12px;
+}
+
+.comment-item__header {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    margin-bottom: 6px;
+    flex-wrap: wrap;
+}
+
+.comment-item__header span {
+    color: #6b7280;
+    font-size: 0.88rem;
+}
+
+.comment-item__content {
+    color: #1f2937;
+    line-height: 1.5;
+    margin-bottom: 6px;
+}
+
+.comment-item__time {
+    color: #9ca3af;
+    font-size: 0.8rem;
+}
+
+.comment-item__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 12px;
+    margin-bottom: 6px;
+}
+
+.comment-author {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+}
+
+.comment-actions {
+    display: flex;
+    gap: 8px;
+}
+
+.comment-actions button,
+.edit-actions button {
+    border: none;
+    background: #2563eb;
+    color: white;
+    padding: 6px 10px;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+.comment-actions .danger {
+    background: #dc2626;
+}
+
+.edit-box input {
+    width: 100%;
+    border: 1px solid #d1d5db;
+    border-radius: 10px;
+    padding: 10px 12px;
+    background: #ffffff;
+}

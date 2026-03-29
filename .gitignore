@@ -1,0 +1,29 @@
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# Environment
+.env
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# PHP config (IMPORTANT)
+Komu_api/config/database.php
+
+# Uploads (VERY IMPORTANT - user IDs)
+Komu_api/uploads/
+
+# Temp files
+*.tmp
+
+# Cache
+.cache/
