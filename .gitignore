@@ -17,7 +17,7 @@ Thumbs.db
 .vscode/
 
 # PHP config (IMPORTANT)
-Komu_api/config/database.php
+Komu_api/config/database.local.php
 
 # Uploads (VERY IMPORTANT - user IDs)
 Komu_api/uploads/
